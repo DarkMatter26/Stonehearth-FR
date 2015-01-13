@@ -1,0 +1,18 @@
+{
+   "type": "entity",
+   "components" : {
+      "unit_info" : {
+         "name" : "Stockpile",
+         "description" : "For storing things"
+      }
+   },
+   "entity_data" : {
+      "stonehearth:designation" : {
+         "allow_placed_items" : false
+      },
+      "stonehearth:town_patrol" : {
+         "auto_patrol" : true,
+         "patrol_pattern" : "perimeter"
+      }
+   }
+}

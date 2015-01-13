@@ -1,0 +1,24 @@
+{
+   "type" : "debuff",
+   
+   "name" : "Starving",
+   "description" : "Starving citizen needs food badly!",
+   "short_description" : "20%",
+   "icon" : "file(starving_buff.png)",
+
+   "modifiers" : {
+      "speed" : {
+         "multiply" : 0.8
+      }
+   },
+
+   "injected_ai" : {
+      "actions" : [
+         "stonehearth:actions:idle:despair"
+      ]
+   },
+
+   "tags" : [
+      "hungry"
+   ]
+} 

@@ -1,0 +1,14 @@
+{
+   "type" : "command",
+
+   "name": "show_workshop_from_crafter",
+   "tooltip": "Afficher l'Atelier",
+   "description": "Votre artisan utilise l'atelier pour construire les objets utiles à votre ville.",
+   "disabled_description": "Votre artisan utilise l'atelier pour construire les objets utiles à votre ville. Avant  de pouvoir fabriquer, vous devez assigner un artisan à cet atelier.",
+   "default_enabled": true,
+   "icon": "file(../show_workshop/show_workshop.png)",
+
+   "action": "fire_event",
+   "event_name" : "radiant_show_workshop_from_crafter",
+   "event_data" : {}
+}

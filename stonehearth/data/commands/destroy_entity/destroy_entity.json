@@ -1,0 +1,14 @@
+{
+   "type" : "command",
+
+   "name": "destroy_entity",
+   "tooltip": "Détruire",
+   "description" : "Supprimer définitivement cette objet du monde!",
+   "icon": "file(destroy_entity.png)",
+
+   "action": "call",
+   "function": "stonehearth:destroy_entity",
+   "args": [
+      "{{self}}"
+   ]
+}

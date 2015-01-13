@@ -1,0 +1,24 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "item" : {
+         "category" : "resources"
+      },
+      "unit_info": {
+         "name": "Fur pelt",
+         "description": "Soft, supple, and quite dead",
+         "icon" : "file(fur_pelt.png)"
+      },
+      "stonehearth:material" : {
+         "tags" : "resource animal_part pelt"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(fur_pelt.qb)"
+            ]
+         }
+      }
+   }
+}

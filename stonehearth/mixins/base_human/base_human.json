@@ -1,0 +1,303 @@
+{
+   "type" : "entity",
+   "mixins" : "stonehearth:mixins:mob",
+   "components" : {
+      "stonehearth:ai" : {
+         "actions" : [
+            "stonehearth:actions:simple_labor_task_dispatcher",
+            "stonehearth:actions:collect_ingredient",
+            "stonehearth:actions:pickup_ingredient_with_material",
+            "stonehearth:actions:pickup_ingredient_with_uri",
+            "stonehearth:actions:reserve_stockpile_space",
+            "stonehearth:actions:idle:sway",
+            "stonehearth:actions:idle:look_around",
+            "stonehearth:actions:grab_promotion_talisman",                        
+            "stonehearth:actions:grab_promotion_talisman_type",                        
+            "stonehearth:actions:sleep_on_ground",
+            "stonehearth:actions:sleep_in_new_bed",
+            "stonehearth:actions:sleep_in_own_bed",
+            "stonehearth:actions:sleep_in_bed_adjacent",
+            "stonehearth:actions:sleep_when_exhausted",
+            "stonehearth:actions:sit_on_ground",
+            "stonehearth:actions:sit_on_chair",
+            "stonehearth:actions:sit_on_chair_adjacent",
+            "stonehearth:actions:eat",
+            "stonehearth:actions:eat_carrying",
+            "stonehearth:actions:eat_item",
+            "stonehearth:actions:eat_on_ground",
+            "stonehearth:actions:eat_on_chair",
+            "stonehearth:actions:get_food_on_ground",
+            "stonehearth:actions:get_food_from_container",
+            "stonehearth:actions:get_food_from_container_adjacent",
+            "stonehearth:actions:wander",
+            "stonehearth:actions:wander_within_leash",
+            "stonehearth:actions:wander_when_bored",
+            "stonehearth:actions:wait_for_attribute_above",
+            "stonehearth:actions:wait_for_attribute_below",
+            "stonehearth:actions:choose_point_around_leash",
+            "stonehearth:actions:admire_fire",
+            "stonehearth:actions:admire_fire_adjacent",
+            "stonehearth:actions:complete_workshop_construction",
+            "stonehearth:actions:harvest_resource_node_action",
+            "stonehearth:actions:harvest_resource_node_adjacent_action",
+            "stonehearth:actions:harvest_plant",
+            "stonehearth:actions:harvest_plant_adjacent",
+            "stonehearth:actions:restock_stockpile",
+            "stonehearth:actions:memorialize_death",
+            "stonehearth:actions:combat",
+            "stonehearth:actions:combat:attack_after_cooldown",
+            "stonehearth:actions:combat:attack:melee",
+            "stonehearth:actions:combat:attack:melee_adjacent",
+            "stonehearth:actions:combat:defend_dispatcher",
+            "stonehearth:actions:combat:defend:melee",
+            "stonehearth:actions:combat:idle_dispatcher",
+            "stonehearth:actions:combat:idle:ready",
+            "stonehearth:actions:combat:idle:shuffle",
+            "stonehearth:actions:combat:panic_dispatcher",
+            "stonehearth:actions:combat:panic_watcher",
+            "stonehearth:actions:combat:stop_panicking",
+            "stonehearth:actions:combat:hit_stun",
+            "stonehearth:actions:combat:create_engage_callback",
+            "stonehearth:actions:combat:get_primary_target",
+            "stonehearth:actions:combat:get_melee_range",
+            "stonehearth:actions:combat:set_global_attack_cooldown",
+            "stonehearth:actions:combat:wait_for_global_attack_cooldown",
+            "stonehearth:actions:chase_entity",
+            "stonehearth:actions:set_posture",
+            "stonehearth:actions:die_citizen",
+            "stonehearth:actions:free_time:dispatcher",
+            "stonehearth:actions:equip_carrying",
+            "stonehearth:actions:upgrade_equipment",
+            "stonehearth:actions:find_equipment_upgrade"
+         ],
+         "observers": [
+            "stonehearth:observers:aggro",
+            "stonehearth:observers:find_target",
+            "stonehearth:observers:sleepiness",
+            "stonehearth:observers:calorie",
+            "stonehearth:observers:free_time", 
+            "stonehearth:observers:nutrition_score", 
+            "stonehearth:observers:shelter_score", 
+            "stonehearth:observers:health_score", 
+            "stonehearth:observers:safety_score"
+         ]
+      },
+      "unit_info" : {
+         "name": "Civilian",
+         "description": "Citizen of your town"
+      },
+      "sensor_list": {
+         "sensors": {
+            "sight": {
+               "radius": 64
+            }
+         }
+      },
+      "stonehearth:combat_state" : {
+         "stance" : "defensive"
+      },
+      "stonehearth:commands" : {
+         "commands" : [            
+            "file(/data/commands/promote_to_job)"
+         ]
+      },
+      "stonehearth:job" : {
+         "starting_level_title" : "Apprentice __job_name__ ",
+         "default_level_title" : "Level __level_number__ __job_name__", 
+         "default_level_announcement" : "__name__ has achieved __job_name__ Level __level_number__!", 
+         "xp_equation_for_next_level" : "next_level ^ 2 * 100", 
+         "levels_between_attribute_increase" : 10, 
+         "level_data" : {
+            "general_description_desc" : "Max HP increased!",
+            "attribute_up_desc" : "All attributes increased!" 
+         }
+      },
+      "stonehearth:attributes" : {
+         "mind": {
+            "type" : "random_range",
+            "base" : 1,
+            "max"  : 6
+         },
+         "body": {
+            "type" : "random_range",
+            "base" : 1,
+            "max"  : 6
+         },
+         "spirit": {
+            "type" : "random_range",
+            "base" : 1,
+            "max"  : 6
+         },
+         "diligence_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "diligence": {
+            "type" : "derived",
+            "equation" : "mind * 10 + diligence_adjustment"
+         },
+         "curiosity_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "curiosity": {
+            "type" : "derived",
+            "equation" : "mind * 10 + curiosity_adjustment"
+         },
+         "inventiveness_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "inventiveness": {
+            "type" : "derived",
+            "equation" : "mind * 10 + inventiveness_adjustment"
+         },
+         "muscle_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "muscle": {
+            "type" : "derived",
+            "equation" : "body * 10 + muscle_adjustment"
+         },
+         "speed_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "speed": {
+            "type" : "derived",
+            "equation" : "60 + body * 10 + speed_adjustment"
+         },
+         "stamina_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "stamina": {
+            "type" : "derived",
+            "equation" : "body * 10 + stamina_adjustment"
+         },
+         "courage_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "courage": {
+            "type" : "derived",
+            "equation" : "spirit * 10 + courage_adjustment"
+         },
+         "willpower_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "willpower": {
+            "type" : "derived",
+            "equation" : "spirit * 10 + willpower_adjustment"
+         },
+         "compassion_adjustment": {
+            "type" : "random_range",
+            "private" : true,
+            "base" :  1,
+            "max"  :  9
+         },
+         "compassion": {
+            "type" : "derived",
+            "equation" : "spirit * 10 + stamina_adjustment"
+         },
+         "menace": {
+            "type" : "basic",
+            "value" : 10
+         },
+         "max_health": {
+            "type" : "derived", 
+            "equation" : "total_level * 10 + stamina + willpower + diligence"
+         },
+		   "health": {
+            "type" : "variable", 
+            "equation" : "max_health"
+         }, 
+         "calories": {
+            "type" : "basic", 
+            "value" : 90
+         },
+         "sleepiness": {
+            "type" : "random_range", 
+            "base" :  4,
+            "max"  :  8
+         }, 
+         "total_level" : {
+            "type" : "basic", 
+            "value" : 0
+         }, 
+         "additive_dmg_modifier" : {
+            "type" : "basic", 
+            "value" : 0
+         }, 
+         "multiplicative_dmg_modifier" : {
+            "type" : "basic", 
+            "value" : 0
+         }
+
+      },
+      "stonehearth:material" : {
+         "tags" : "meat"
+      },
+      "stonehearth:carry_block" : {
+      },
+      "stonehearth:score" : {
+         "nutrition" : {
+            "starting_score" : 50,
+            "weight" : 1,
+            "contributes_to" : "happiness",
+            "max" : 100,
+            "min" : 1
+            },
+         "shelter" : {
+            "starting_score" : 50,
+            "weight" : 1,
+            "contributes_to" : "happiness",
+            "max" : 100,
+            "min" : 1
+            },
+         "safety" : {
+            "starting_score" : 50,
+            "weight" : 1,
+            "contributes_to" : "happiness",
+            "max" : 100,
+            "min" : 1
+            },
+         "belonging" : {
+            "starting_score" : 50,
+            "weight" : 1,
+            "contributes_to" : "happiness",
+            "max" : 100,
+            "min" : 1
+         }
+      },
+      "stonehearth:equipment" : {
+      }
+   },
+   "entity_data" : {
+      "stonehearth:entity_radius" : 0.75,
+      "stonehearth:entity_reach" : 1.0,
+
+      "stonehearth:observers:avoid_threatening_entities" : {
+         "min_avoidance_distance" : 16,
+         "max_avoidance_distance" : 16
+      }
+   }
+}

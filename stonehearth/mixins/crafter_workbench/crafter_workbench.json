@@ -1,0 +1,13 @@
+{
+   "type": "entity",
+   "components" : {
+      "stonehearth:commands" : {
+         "commands" : [
+            "file(/data/commands/show_workshop)"
+         ]
+      },
+      "stonehearth:workshop" : {
+      }
+   }
+}
+

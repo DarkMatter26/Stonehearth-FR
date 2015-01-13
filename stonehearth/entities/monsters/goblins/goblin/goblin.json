@@ -1,0 +1,90 @@
+{
+   "type": "entity", 
+   "mixins" : "stonehearth:mixins:monster",
+   "components": {
+      "render_info" : {
+         "animation_table": "file(/data/rigs/monsters/goblin)"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(goblin_body.qb)",
+               {
+                  "type": "one_of",
+                  "items": [
+                     "file(goblin_head_1.qb)", 
+                     "file(goblin_head_2.qb)", 
+                     "file(goblin_head_3.qb)",
+                     "file(goblin_head_4.qb)",
+                     "file(goblin_head_5.qb)",
+                     "file(goblin_head_6.qb)"
+                  ]
+               },
+               {
+                  "type": "one_of",
+                  "items": [
+                     "file(goblin_armor_none.qb)", 
+                     "file(goblin_armor_vest.qb)", 
+                     "file(goblin_armor_leather.qb)", 
+                     "file(goblin_armor_breastplate.qb)"
+                  ]
+               }
+            ]
+         }
+      }, 
+      "unit_info" : {
+         "name": "A Goblin",
+         "description": "Attracted to shiny things"
+      },
+      "stonehearth:attributes": {
+          "max_health": {
+            "type" : "basic", 
+            "value" : 20
+         },
+         "health": {
+            "type" : "variable", 
+            "equation" :  "max_health"
+         },
+         "speed": {
+            "type" : "basic",
+            "value" : 80
+         },
+         "menace": {
+            "type" : "basic",
+            "value" : 70
+         },
+         "courage": {
+            "type" : "basic",
+            "value" : 20
+         }, 
+         "exp_per_hit": {
+            "type" : "basic",
+            "value" : 50
+         }
+      },
+      "stonehearth:carry_block": {
+      },
+      "stonehearth:posture": [
+      ]
+   },
+   "entity_data" : {
+      "stonehearth:entity_radius" : 0.75,
+      "stonehearth:entity_reach" : 1.0,
+      "stonehearth:combat:melee_attacks" : [
+         {
+            "name" : "combat_1h_forehand_spin",
+            "active_frame" : 21,
+            "cooldown" : 8000,
+            "priority" : 1
+         }      
+      ],
+      "stonehearth:combat:melee_defenses" : [
+         {
+            "name" : "combat_1h_dodge",
+            "active_frame" : 8,
+            "cooldown" : 12000,
+            "priority" : 1
+         }
+      ]
+   }
+}

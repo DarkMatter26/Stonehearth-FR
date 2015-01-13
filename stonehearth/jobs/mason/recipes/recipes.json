@@ -1,0 +1,61 @@
+{
+   "craftable_recipes" : {
+      "tools_weapons" : {
+         "ordinal" : 1, 
+         "name" : "Tools & Weapons", 
+         "recipes" : {
+         }
+      },
+      "building_parts" : {
+         "ordinal" : 2, 
+         "name" : "Building Parts", 
+         "recipes" : {
+            "cobblestone_fence" : {
+               "recipe" : "file(cobblestone_fence_recipe.json)"
+            },
+            "cobblestone_fence_gate" : {
+               "recipe" : "file(cobblestone_fence_gate_recipe.json)"
+            }
+         }
+      },
+      "furniture" : {
+         "ordinal" : 3, 
+         "name" : "Furniture", 
+         "recipes" : {
+            "stone_chair" : {
+               "recipe" : "file(stone_chair_recipe.json)" 
+            },
+            "stone_table" : {
+               "recipe" : "file(stone_table_recipe.json)" 
+            },
+            "stone_bench" : {
+               "recipe" : "file(stone_bench_recipe.json)" 
+            }
+         }
+      },
+      "signage_decoration" : {
+         "ordinal" : 4, 
+         "name" : "Signage & Decoration",
+         "recipes" : {
+            "bird_bath" : {
+               "recipe" : "file(bird_bath_recipe.json)" 
+            },
+            "stone_garden_lantern" : {
+               "recipe" : "file(stone_garden_lantern_recipe.json)" 
+            },
+            "stone_wall_lantern" : {
+               "recipe" : "file(stone_wall_lantern_recipe.json)" 
+            },            
+            "gargoyle" : {
+               "recipe" : "file(gargoyle_recipe.json)" 
+            },
+            "stone_brazier" : {
+               "recipe" : "file(stone_brazier_recipe.json)" 
+            },
+            "tower_brazier" : {
+               "recipe" : "file(tower_brazier_recipe.json)" 
+            }            
+         }
+      }
+   }
+}

@@ -1,0 +1,176 @@
+{
+   "harvest_menu" : {
+      "name" : "Harvest",
+      "description" : "Harvest resources from the ground, like wood, stone, and ore.",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/dock_harvest.png",
+      "hotkey" : "1",
+      "game_mode" : "normal",
+      "clickSound": "stonehearth:sounds:ui:start_menu:harvest_pickup"
+   },
+   "build_menu" : {
+      "name" : "Build & Design",
+      "description" : "Build structures like houses and city walls.",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/dock_build.png",
+      "hotkey" : "2",
+      "game_mode" : "build",
+      "menuHideSound": "stonehearth:sounds:ui:start_menu:wash_out",
+      "menuShowSound": "stonehearth:sounds:ui:start_menu:wash_in",
+      "items" : {
+      "building_templates" : {
+            "name" : "Construct a Building",
+            "description" : "Construct buildings like houses and towers",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/design_building.png",
+            "sticky" : true,
+            "hotkey" : "b"
+         },
+         "place_item" : {
+            "name" : "Place an Item",
+            "description" : "Place items like furniture and decoration",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/place_item.png",
+            "sticky" : true,
+            "hotkey" : "p"
+         },
+         "build_road" : {
+            "name" : "Build Roads",
+            "description" : "Add roads to your town",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/roads.png",
+            "sticky" : true,
+            "hotkey" : ""
+         },
+         "build_ladder" : {
+            "name" : "Construct a Ladder",
+            "description" : "Build a ladder to access hard to reach places",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/build_ladder.png",
+            "sticky" : true,
+            "hotkey" : "l"
+         }
+      }
+   },
+   "mining_menu" : {
+      "name" : "Mine & Landscape",
+      "description" : "Change the shape of the terrain, with mines and landscaping",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/dock_mine.png",
+      "hotkey" : "3",
+      "game_mode" : "mining",
+      "clickSound": "stonehearth:sounds:ui:start_menu:trigger_click",
+      "items" : {
+         "mining_ui" : {
+            "name" : "Mine",
+            "description" : "Mine out tunnels and caves",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/mine.png",
+            "sticky" : true,
+            "hotkey" : "m"
+         }
+      }
+   },   
+   "fight_menu" : {
+      "name" : "Fight & Defend",
+      "description" : "Manage your combat forces",
+      "class" : "dock",
+      "hotkey" : "6",
+      "icon" : "/stonehearth/ui/game/start_menu/images/dock_defend.png",
+      "game_mode" : "normal",
+      "menuHideSound": "stonehearth:sounds:ui:start_menu:defend_close",
+      "menuShowSound": "stonehearth:sounds:ui:start_menu:defend_open",
+      "items" : {
+         "red_alert" : {
+            "name" : "Red Alert!",
+            "description" : "Rally workers to defend the town!",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/red_alert.png",
+            "sticky" : true,
+            "hotkey" : "r"
+         }
+      }
+   },   
+   "town_menu" : {
+      "name" : "Town Info",
+      "description" : "General information about your town, how your citizens are feeling, and the wealth you've accumulated!",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/town_banner.png",
+      "hotkey" : "i",
+      "game_mode" : "normal",
+      "clickSound": "stonehearth:sounds:banner_grab"
+   },   
+   "zone_menu" : {
+      "name" : "Designate Zones",
+      "description" : "Designate areas of the ground for storage, farming, etc.",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/dock_zone.png",
+      "hotkey" : "4",
+      "game_mode" : "zones",
+      "menuHideSound": "stonehearth:sounds:ui:start_menu:wash_out",
+      "menuShowSound": "stonehearth:sounds:ui:start_menu:wash_in",
+      "items" : {
+         "create_stockpile" : {
+            "name" : "Stockpile",
+            "description" : "Place a stockpile for storing resources.",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/zone_stockpile.png",
+            "sticky" : true,
+            "hotkey" : "o"
+         },
+         "create_farm" : {
+            "name" : "Farm",
+            "description" : "Place a farm on the terrain.",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/zone_farm.png",
+            "sticky" : true,
+            "hotkey" : "f"
+         },
+         "create_trapping_grounds" : {
+            "name" : "Trapping Ground",
+            "description" : "Place traps to capture small critters.",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/zone_trap.png",
+            "sticky" : true,
+            "hotkey" : "t"
+         }, 
+         "create_pasture" : {
+            "name" : "Animal Pasture",
+            "description" : "The shepherd will bring animals here to graze.",
+            "class" : "button",
+            "icon" : "/stonehearth/ui/game/start_menu/images/zone_pasture.png",
+            "sticky" : true
+         }
+      }
+   },
+   "citizen_manager" : {
+      "name" : "Manage Citizen",
+      "description" : "Manage your settlers and promote them to new jobs.",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/citizens.png",
+      "hotkey" : "5",
+      "game_mode" : "normal",
+      "menuHideSound": "stonehearth:sounds:ui:start_menu:jobs_close",
+      "menuShowSound": "stonehearth:sounds:ui:start_menu:jobs_open"
+   },
+   "dead_button" : {
+      "name" : "TBD",
+      "description" : "We have one slot to use. Ideas?",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/dead.png",
+      "hotkey" : "7",
+      "game_mode" : "normal",
+      "menuHideSound": "stonehearth:sounds:ui:start_menu:jobs_close",
+      "menuShowSound": "stonehearth:sounds:ui:start_menu:jobs_open"
+   },
+   "tasks_manager" : {
+      "name" : "Manage Tasks",
+      "description" : "Do task stuff.",
+      "class" : "dock",
+      "icon" : "/stonehearth/ui/game/start_menu/images/tasks.png",
+      "hotkey" : "7",
+      "game_mode" : "normal",
+      "menuHideSound": "stonehearth:sounds:ui:start_menu:jobs_close",
+      "menuShowSound": "stonehearth:sounds:ui:start_menu:jobs_open"
+   }   
+}

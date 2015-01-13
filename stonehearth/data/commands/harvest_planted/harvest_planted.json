@@ -1,0 +1,16 @@
+{
+   "type" : "command",
+
+   "name": "harvest_planted",
+   "tooltip" : "Récolter",
+   "description" : "Récolter tout ce qui est disponible.",
+
+   "default_enabled": true,  
+   "icon": "file(harvest_planted.png)",
+
+   "action": "call",
+   "function": "stonehearth:harvest_entity",
+   "args": [
+      "{{self}}"
+   ]
+}

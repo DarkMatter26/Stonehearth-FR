@@ -1,0 +1,74 @@
+{
+   "type" : "entity",
+   "mixins" : "stonehearth:mixins:mob",
+   "components" : {
+      "mob" : {
+         "mob_collision_type" : "tiny"
+      },
+      "unit_info" : {
+         "player_id" : "critters"
+      },
+      "stonehearth:ai" : {
+         "actions" : [
+            "stonehearth:actions:idle:look_around",
+            "stonehearth:actions:wander",
+            "stonehearth:actions:wander_within_leash",
+            "stonehearth:actions:wander_when_bored",
+            "stonehearth:actions:choose_point_around_leash",
+            "stonehearth:actions:set_posture",
+            "stonehearth:actions:combat",
+            "stonehearth:actions:combat:panic_dispatcher",
+            "stonehearth:actions:combat:panic_watcher",
+            "stonehearth:actions:combat:stop_panicking",
+            "stonehearth:actions:combat:flee"
+         ],
+         "observers" : [
+            "stonehearth:observers:avoid_threatening_entities"
+         ]
+      },
+      "stonehearth:attributes": {
+         "max_health" : {
+            "type" : "basic", 
+            "value" : 50
+         },
+         "health": {
+            "type" : "variable", 
+            "equation" : "max_health"
+         }, 
+         "speed" : {
+            "type" : "basic", 
+            "value": 110
+         },
+          "calories" : {
+            "type" : "basic", 
+            "value" : 30
+         },
+         "sleepiness" : {
+            "type" : "basic", 
+            "value" : 0
+         },
+         "menace": {
+            "type" : "basic",
+            "value" : 1
+         },
+         "courage": {
+            "type" : "basic",
+            "value" : 1
+         }
+      },
+      "sensor_list" : {
+         "sensors" : {
+            "sight" : {
+               "radius" : 16
+            }
+         }
+      }
+   },
+   "entity_data" : {
+      "stonehearth:observers:avoid_threatening_entities" : {
+         "treat_neutral_as_hostile" : true,
+         "min_avoidance_distance" : 16,
+         "max_avoidance_distance" : 16
+      }
+   }
+}
