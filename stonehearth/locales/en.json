@@ -63,7 +63,7 @@
    "settings_effects_volume" : "Volume des effets",
 
 
-    "new_game_embark_button" : "Embarquer!",
+   "new_game_embark_button" : "Embarquer!",
    "new_game_founding_charter" : "Manuel du fondateur",
    "new_game_founding_charter_help" : "Tout d'abord, trouver un endroit approprié pour votre nouvelle maison. Choisissez un endroit avec un accès facile à des :<p><ol><li><b>Nourriture!</b> Les baies sauvages poussent souvent dans la forêt.<li><b>Bois!</b> Vous aurez besoin de bois pour faire à peu près, tout.</ol>Lorsque vous êtes prêt, cliquez sur la bannière puis placez-la où vous voulez installer.",
    "new_game_setup_base_camp" : "Configuration de votre camp de base",
@@ -290,7 +290,7 @@
    "draw_template_description": "Pivoter avec les touches , et .",
    "build_road_tip_title" : "Cliquez et faites glisser pour construire une route", 
    "build_road_tip_description" : "Clique Droit pour quitter", 
-   "start_building_confirm_title" : "Vraiment commencer à construire?",
+   "start_building_confirm_title" : "Confirmez-vous la construction?",
    "start_building_confirm" : "Une fois que vous avez commencer à construire cette structure, elle ne peut pas être modifiée. Êtes-vous certain de vouloir la construire maintenant ?",
    "start_building_yes" : "Oui, commencer la construction!",
    "start_building_no" : "Pas encore",
