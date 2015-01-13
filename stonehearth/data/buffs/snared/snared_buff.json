@@ -1,7 +1,7 @@
 {
    "type" : "debuff",
-   "name" : "Snared!",
-   "description" : "Trapped by a snare and unable to move",
+   "name" : "Pris au Piège!",
+   "description" : "Pris au piège par un piège et incapable de se déplacer",
    "icon" : "file(snared_buff.png)",
    "modifiers" : {
       "speed" : {

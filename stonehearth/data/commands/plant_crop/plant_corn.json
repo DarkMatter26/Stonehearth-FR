@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "plant_corn",
-   "tooltip": "Plant Corn!",
-   "description" : "Edible Gold.",
+   "tooltip": "Plant de Maïs!",
+   "description" : "L'Or alimentaire.",
    "icon": "file(plant_corn.png)",
 
    "action": "call",

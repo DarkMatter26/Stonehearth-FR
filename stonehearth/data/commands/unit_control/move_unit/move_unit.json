@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "move_unit",
-   "tooltip": "Move",
-   "description": "Tell this character to move somewhere else",
+   "tooltip": "Bouge",
+   "description": "Dire à ce personnage de se déplacer quelque part ailleurs",
    "icon": "file(move_unit.png)",
 
    "action": "call",

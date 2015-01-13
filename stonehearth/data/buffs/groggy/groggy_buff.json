@@ -1,9 +1,9 @@
 {
    "type" : "debuff",
    
-   "name" : "Groggy",
-   "description" : "A hard night's sleep on the ground lowers speed by 50%. A bed would be much better!",
-   "short_description" : "50%",
+   "name" : "Chancelant",
+   "description" : "Une nuit de sommeil difficile sur le terrain réduit la vitesse de 50%. Un lit serait beaucoup mieux!",
+   "short_description" : "50% de vitesse en moins",
    "icon" : "file(groggy_buff.png)",
    "duration" : "3h",
 

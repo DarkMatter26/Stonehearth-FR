@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "snare_trap",
-   "tooltip": "Snare Trap",
-   "description": "Spring a weighted net to capture small game like rabbits and squirrels.",
+   "tooltip": "Piège à Ressort",
+   "description": "Piège à ressort pour capturer de petits gibiers comme les lapins et les écureuils.",
    "icon": "file(snare_trap.png)",
 
    "action": "call",

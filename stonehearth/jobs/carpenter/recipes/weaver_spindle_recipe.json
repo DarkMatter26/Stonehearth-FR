@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 5,
-   "recipe_name" : "Weaver's Spindle",
-   "description" : "Promotes a citizen into a Weaver.",
-   "flavor"      : "From fiber, thread, from thread, fabric, from fabric, civilization.",
+   "recipe_name" : "Fuseau du Tisserand",
+   "description" : "le citoyen est promu tisserand.",
+   "flavor"      : "De la fibre au fil, du fil au tissu, du tissu à la civilisation.",
    "portrait"    : "/stonehearth/jobs/weaver/weaver_spindle/weaver_spindle.png",
    "level_requirement" : 1,
    "ingredients": [

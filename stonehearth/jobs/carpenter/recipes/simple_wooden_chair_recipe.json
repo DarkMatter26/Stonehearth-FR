@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Simple Wooden Chair",
-   "description" : "When sitting, food is 20% more satisfying.",
-   "flavor"      : "Ten thousand years of reseach culminated in this four-legged design.",
+   "recipe_name" : "Simple chaise en bois",
+   "description" : "Lorsque vous êtes assis, la nourriture est 20 % plus satisfaisant.",
+   "flavor"      : "Dix mille ans de recherches ont abouti à cette conception à quatre pattes.",
    "portrait"    : "/stonehearth/entities/furniture/simple_wooden_chair/simple_wooden_chair.png",
 
    "ingredients": [

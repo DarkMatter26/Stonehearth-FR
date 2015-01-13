@@ -2,8 +2,8 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Reinforced Wooden Door",
-   "description" : "Stronger than your average door.",
+   "recipe_name" : "Porte en bois renforcé",
+   "description" : "Plus fort que votre porte moyenne.",
    "portrait"    : "/stonehearth/entities/construction/wooden_door_2/wooden_door_2.png",
 
    "ingredients": [

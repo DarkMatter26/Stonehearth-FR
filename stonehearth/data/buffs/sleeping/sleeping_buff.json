@@ -1,7 +1,7 @@
 {
    "type" : "neutral",
-   "name" : "Sleeping",
-   "description" : "Sleeping...",
-   "short_description" : "Sleeping...",
+   "name" : "Dormir",
+   "description" : "Dormir...",
+   "short_description" : "Zzz...",
    "icon" : "file(sleeping_buff.png)"
 } 

@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Shepherd's Crook",
-   "description" : "Promotes a citizen into a Shepherd.",
-   "flavor"      : "Can you tell me another story about The Shepard?",
+   "recipe_name" : "Bâton de Berger",
+   "description" : "le citoyen est promu Berger.",
+   "flavor"      : "Vous pouvez me raconter une autre histoire sur le Berger ?",
    "portrait"    : "/stonehearth/jobs/shepherd/shepherd_crook/shepherd_crook.png",
    "level_requirement" : 1,
    "ingredients": [

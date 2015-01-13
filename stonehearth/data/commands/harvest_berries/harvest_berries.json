@@ -2,9 +2,9 @@
    "type" : "command",
 
    "name": "harvest_berries",
-   "tooltip" : "Gather Berries",
-   "description" : "This bush produces berries that can be gathered to feed your settlers.",
-   "disabled_description" : "The berries on this bush aren't ripe yet!",
+   "tooltip" : "Cueillir les baies",
+   "description" : "Ce buisson produit des fruits qui peuvent être collectées pour alimenter vos colons.",
+   "disabled_description" : "Les baies sur ce buisson ne sont pas encore mûres!",
 
    "default_enabled": true,  
    "icon": "file(gather_berries.png)",

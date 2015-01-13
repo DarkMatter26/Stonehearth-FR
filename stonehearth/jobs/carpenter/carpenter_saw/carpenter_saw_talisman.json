@@ -3,8 +3,8 @@
    "mixins": "stonehearth:mixins:item_properties",
    "components" : {
       "unit_info" : {
-         "name" :  "Carpenter's Saw",
-         "description" : "Promotes a citizen into a Carpenter."
+         "name" :  "Scie de charpentier",
+         "description" : "le citoyen est promu charpentier."
       },
       "item" : {
          "stacks" : 1

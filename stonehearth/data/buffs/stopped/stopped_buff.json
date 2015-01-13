@@ -1,7 +1,7 @@
 {
    "type" : "debuff",
-   "name" : "Stopped",
-   "description" : "Put this buff on someone who needs to stop, right now.",
+   "name" : "Arrêté",
+   "description" : "Activer sur quelqu'un qui doit s'arrêter, dès maintenant.",
    "invisible_to_player" : true,
    "modifiers" : {
       "speed" : {

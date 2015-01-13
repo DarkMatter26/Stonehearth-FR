@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "raze_crop",
-   "tooltip": "Clear Ground",
-   "description" : "Clear or harvest the contents of this plot.",
+   "tooltip": "Vider la Zone",
+   "description" : "Effacer ou récolter tout le contenu de cette zone.",
    "icon": "file(raze_crop.png)",
 
    "action": "call",

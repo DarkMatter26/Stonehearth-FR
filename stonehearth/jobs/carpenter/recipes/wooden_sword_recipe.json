@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Wooden Practice Sword",
-   "description" : "Promotes a citizen into a Footman.",
-   "flavor"      : "Just pointy enough to get the job done.",
+   "recipe_name" : "Épée d'entrainement en bois",
+   "description" : "Un citoyen est promu soldat.",
+   "flavor"      : "Juste assez pointu pour faire le travail.",
    "portrait"    : "/stonehearth/entities/weapons/wooden_sword/wooden_sword.png",
 
    "ingredients": [

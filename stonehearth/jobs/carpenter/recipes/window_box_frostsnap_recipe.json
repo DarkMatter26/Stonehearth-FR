@@ -2,8 +2,8 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Frostsnap Window Box",
-   "description" : "A planter box full of Frostsnap flowers, built to be placed below window frames.",
+   "recipe_name" : "Jardinière de Fleur-Frostsnap",
+   "description" : "Une jardinière pleine de fleurs Frostsnap, construit pour être placé au-dessous des cadres de fenêtres.",
    "flavor"      : "",
    "portrait"    : "/stonehearth/entities/decoration/window_box_frostsnap/window_box_frostsnap.png",
 

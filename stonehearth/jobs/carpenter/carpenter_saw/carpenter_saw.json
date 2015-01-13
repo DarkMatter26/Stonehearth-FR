@@ -3,8 +3,8 @@
    "mixins": "stonehearth:mixins:item_properties",
    "components" : {
       "unit_info" : {
-         "name" :  "Carpenter's Saw",
-         "description" : "Tools of the trade for a Carpenter.",
+         "name" :  "Scie de charpentier",
+         "description" : "Outils du métier de charpentier.",
          "icon": "file(carpenter_saw.png)"
       },
       "item" : {

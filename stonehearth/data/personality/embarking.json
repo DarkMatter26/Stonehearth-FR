@@ -7,39 +7,39 @@
                "probability" : 100
             }
          ],
-         "text" : "On Arriving:",
+         "text" : "En arrivant:",
          "type" : "random",
          "logs_by_personality" : {
             "beleaguered_leader" : {
                "logs" : [
-               "Everyone seems to have gotten here OK! Well... almost everyone..."
+               "Tout le monde semble être arrivé ici OK! Enfin... presque tout le monde..."
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "I'm so psyched to be here, I could __action_verb__ with joy!!!" 
+               "Je suis tellement excité d'être ici que je pourrais __action_verb__ avec joie!!!" 
                ]
             },
             "lovable_rogue" : {
                "logs" : [
-               "Well, here we are, I guess. A million miles away from civilization. Great.",
-               "Mom was right. We're all going to get eaten by bears."
+               "Bien, nous sommes ici, je suppose, À un millions de kilomètres de la civilisation. Bien.",
+               "Maman avait raison. On va tous se faire mangé par des ours."
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
-               "At the time, wilderness seemed better than jailtime, but I'm starting to wonder.",
-               "Walk a thousand miles to get away from people and... there are still people. Spork."
+               "À l'époque, il me semblait que être perdu au milieu de la nature était mieux que d'être en prison, mais maintenant je me demande si ...",
+               "Marcher milles kilomètres pour être loin des gens et... il y a toujours des gens. Beurk."
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "Three days have passed since I had a decent philosophical conversation. Trying not to panic. Failing. Trying to keep it in. Succeeding. Mostly."
+               "Trois jours se sont écoulés depuis que j'ai eu une conversation décente. Essaye de ne pas paniquer. Échouer. Essayer de rester en vie. Réussi. En partie."
                ]
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "Wow! This is a lot of great outdoors. Well, time to form strong relationships and build community!"
+               "Wow! Il y a de grand espaces. Bien, il est temps de construire des relations solides et une communauté!"
                ]
             }
          }
@@ -52,9 +52,9 @@
             "action_verb" : {
                "type" : "random_array", 
                "entries" : [
-                  "polka", 
-                  "yowl",
-                  "cartwheel"
+                  "danser la polka", 
+                  "faire une roue",
+                  "crier"
                ]
             }
          }

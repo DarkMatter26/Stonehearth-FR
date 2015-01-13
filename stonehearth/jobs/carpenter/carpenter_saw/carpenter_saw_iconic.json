@@ -3,8 +3,8 @@
    "mixins": "stonehearth:mixins:item_properties",
    "components" : {
       "unit_info" : {
-         "name" :  "Carpenter's Saw",
-         "description" : "Basic level carpenter's saw."
+         "name" :  "Scie de charpentier",
+         "description" : "Scie de charpentier niveau de base."
       },
       "item" : {
          "stacks" : 1

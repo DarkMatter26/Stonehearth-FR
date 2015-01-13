@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Wooden Garden Lantern",
-   "description" : "A small lantern that's placed on the ground. Suitable for lighting paths or small gardens.",
-   "flavor"      : "Practical and romantic!",
+   "recipe_name" : "Lanterne de jardin en bois",
+   "description" : "Une petite lanterne qui est posée sur le sol. Convient pour les chemins de l'éclairage ou les petits jardins.",
+   "flavor"      : "Pratique et romantique !",
    "portrait"    : "/stonehearth/entities/decoration/wooden_garden_lantern/wooden_garden_lantern.png",
    "level_requirement" : 1,
    "ingredients": [

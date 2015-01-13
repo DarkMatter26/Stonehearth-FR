@@ -8,50 +8,50 @@
                "probability" : 10
             }
          ],
-         "text" : "On Dreaming:",
+         "text" : "En dormant:",
          "type" : "random",
          "default_namespace" : "stonehearth:settler_journals:dreams",
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "First, I dreamed that __dream_parts__. Then, __dream_parts__."
+               "Tout d'abord, je rêvais que __dream_parts__. Puis, __dream_parts__."
                ]
             },
             "beleaguered_leader" : {
                "logs" : [
-               "First, I dreamed that __dream_parts__. Then, __dream_parts__. __beleaguered_leader_dream_reaction__",
-               "Last night I counted __dream_counter__ to get to sleep, and when I woke up, I realized that all night my dreams were about counting __dream_counter__. Joy. "
+               "Tout d'abord, je rêvais que __dream_parts__. Puis, __dream_parts__. __beleaguered_leader_dream_reaction__",
+               "Hier soir, je comptais __dream_counter__ pour m'endormir, et quand je me suis réveillé,J'ai réalisé que toute la nuit mes rêves c'était compter __dream_counter__. Cool. "
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "__dream_monsters__!!!! All night I dreamed I was being chased by __dream_monsters__!!!!",
-               "I love dreams about flying. Tonight I flew by __material_adjective__ clouds and over __material_adjective__ trees. Watch out, birds!" 
+               "__dream_monsters__!!!! Toute la nuit j'ai révé que j'étais poursuivi par __dream_monsters__!!!!",
+               "J'adore les rêves ou je vole. Cette uit, je me suis envolé par __material_adjective__ nuages et à travers __material_adjective__ arbres. Mais il faut se méfier des oiseaux!" 
                ]
             },
             "lovable_rogue" : {
                "logs" : [
-               "This morning, I woke up certain that __monsters__ had stolen all the __prosaic_plural_noun__. Need to build walls!! Thicker walls!!!.",
-               "I had the dream about __material_adjective__ ladder again. I wish I knew what was at the top. I'm sure __teacher__ is trying to tell me something."
+               "ce matin, je me suis réveillé certain que __monsters__ avais volé touts les __prosaic_plural_noun__. On dois construire des mures!! Des parois épaisses!!!.",
+               "J'ai encore eu le rêve de l'échelle __material_adjective__. Je voudrais savoir ce qui est au sommet. Je suis sûr que __teacher__ essaye de me sire quelque chose."
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
-               "Went to sleep hungry again last night and dreamed for ten consecutivie hours about __awesome_food__!!! Raaargh!!! Fear my devouring mouth!!!!",
-               "In heaven, I hope I get a lake of __awesome_food__ to swim in. Swim forever!!!!"
+               "Nous sommes allé dormir avec encore la faim au ventre et pendant environ dix heures consécutive j'ai révé de __awesome_food__!!! Raaargh!!! Faites gaffe j'ai toujours une faim de loup!!!!",
+               "Au paradis, j'espère recevoir un lac de __awesome_food__ Pour nager dedans. Nager pour toujours!!!!"
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "I wonder if anyone else has the dream where their clothes trail their bodies by several feet? Lucky for me, I always seem to have on my trusty pair of __material_adjective__ knickers.",
-               "Last night I dreamed I stood before a class of attentive __animals__. They took notes on the nature of realtity. Afterwards, we had a stirring debate.",
-               "According to the formulae in my dreams, determinism is a myth. Time to get breakfast."
+               "Je me demande si quelqu'un a déjà eu le rêve où des vêtement traînen leurs corps par les pieds? Heureusement pour moi, Il me semble avoir toujours sur moi une fidèle pair de  __material_adjective__ culottes.",
+               "La nuit dernière, je rêvais que je me tenais devant une classe de __animals__ attentifs. Ils ont pris des notes sur la nature de la réalité. Ensuite, nous avons un débat agité.",
+               "Selon les formules de mes rêves, le déterminisme est un mythe. Il est maintenant temps de prendre un petit déjeuner."
                ]
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "Whoa! I was out for a while! Do we still have all our __prosaic_plural_noun__?",
-               "I dreamed I fell asleep for a thousand years. Luckily(?) someone made me a __material_adjective__ glass coffin with a hatch on the inside for opening. Weird."
+               "Whoa! Je suis réveillé pour un moment! Avons nous encore tous nos __prosaic_plural_noun__?",
+               "Je rêvais que je m'étais endormi pendant mille ans. Heureusement(?) quelqu'un m'avais fais un cercueil de verre __material_adjective__  avec une trappe à l'interieur pour l'ouvrir. Bizarre."
                ]
             }
          }
@@ -64,19 +64,19 @@
                "probability" : 100
             }
          ],
-         "text" : "On Beds:",
+         "text" : "Sur les lits::",
          "type" : "random",
          "default_namespace" : "stonehearth:settler_journals:dreams",
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "It feels good to have my own bed.",
-               "Sleeping in a bed is a ton cooler than sleeping on the floor!",
-               "Beds are the best invention since regulation log sizes.", 
-               "I'm never going to get tired of sleeping in a bed.", 
-               "Yes! This bed is mine! M-I-N-E!",
-               "Being in my bed makes me feel so sheltered and cozy.",
-               "Home is where your bed is."
+               "Je me sens tellment bien d'avoir mon propre lit.",
+               "Dormir dans un lit est tellemnt plus chaud que de dormir sur le sol!",
+               "Les lits sont la meilleur invention  depuis la régulation de la taille des troncs.", 
+               "Je ne me lasserais jamais de  dormir dans ce lit.", 
+               "Oui! Ce lit est le mien! M-I-E-N!",
+               "Quand je suis dans mon lit, je me sens tellement bien et  protégé.",
+               "Ma maison est où est mon lit."
                ]
             }
          }
@@ -89,21 +89,21 @@
                "probability" : 100
             }
          ],
-         "text" : "On the Cold, Hard Earth:",
+         "text" : "Dans le froid, la terre dure:",
          "type" : "random",
          "default_namespace" : "stonehearth:settler_journals:dreams",
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "Sleeping on the ground makes me super sore.",
-               "I think there was a rock in my shoulder all night.",
-               "Rattlesnakes! What if I wake up covered in rattlesnakes?!", 
-               "I wish I could sleep in a real bed.",
-               "Any kind of bed would be better than sleeping on the ground", 
-               "Though __teacher__ slept on the ground during their pilgrimage, I wish I didn't have to.",
-               "I really, really wish I had a bed to call my own.", 
-               "I was too exhausted to find a proper bed, and now I'm really paying for it. Ow.",
-               "Slept on the ground again. Neck super sore. Everything looks slanted."
+               "Dormir sur le sol me fais super mal.",
+               "Je pense qu'il y avait une pierre sous mon épaule toute la nuit.",
+               "Serpant! Que faire si je me réveillle couvert de serpents à sonnetes?!", 
+               "J'espère pouvoir dormir dans un vrai lit.",
+               "Toute sorte de lit serait mieux que de dormir parterre", 
+               "Penser que __teacher__ a dormi sur le sol pendant tout son pélerinage, j'espère ne pas avoir à le faire.",
+               "Je souhaite vraiment, vraiment avoir mon propre lit.", 
+               "J'étais trop fatigué pour trouver un lit mais maintenant je suis à payer pour ça.Ow.",
+               "Dormir sur le sol à nouveau. J'ai super mal au coup. Tout me semble incliné."
                ]
             }
          }
@@ -116,24 +116,24 @@
             "material_adjective" : {
                "type" : "random_array",
                "entries" : [
-                  "shiny",
-                  "soft",
-                  "pricky",
+                  "brillant(e)",
+                  "doux(ce)",
+                  "épineux(se)",
                   "fragile",
-                  "nicked",
-                  "dense"
+                  "entaillé(e)",
+                  "opaque"
                ]
             },
             "monsters" : {
                "type" : "random_array",
                "entries" : [
-                  "wolves",
+                  "loups",
                   "goblins",
                   "dragons",
                   "trolls",
-                  "hedgehogs",
-                  "swamp monsters",
-                  "rabbits"
+                  "hérissons",
+                  "monstres des marécages",
+                  "lapins"
                ]
             },
             "teacher" : {
@@ -147,13 +147,13 @@
             "animals" : {
                "type" : "random_array",
                "entries" : [
-                  "wolves",
-                  "sheep",
-                  "rabbits",
-                  "chickens",
-                  "deer",
-                  "porcupines",
-                  "raccoons"
+                  "loups",
+                  "moutons",
+                  "lapins",
+                  "poules",
+                  "cerfs",
+                  "porcs-épics",
+                  "ratons laveurs"
                ]
             }
          }
@@ -164,36 +164,36 @@
             "action_verb" : {
                "type" : "random_array", 
                "entries" : [
-                  "dance",
-                  "sing",
-                  "spin", 
-                  "attack",
-                  "chant",
-                  "explode"
+                  "dancer",
+                  "chanter",
+                  "tourner", 
+                  "attaquer",
+                  "chanter",
+                  "exploser"
                ]
             },
             "prosaic_plural_noun" : {
                "type" : "random_array",
                "entries" : [
-                  "sheep",
-                  "hammers",
-                  "trees",
-                  "shoes",
-                  "wooden logs",
-                  "grass",
-                  "berries"
+                  "moutons",
+                  "marteaux",
+                  "arbres",
+                  "chaussures",
+                  "rondins de bois",
+                  "herbes",
+                  "baies"
                ]
             },
             "awesome_food" : {
                "type" : "random_array",
                "entries" : [
-                  "apple pie",
+                  "tarte aux pommes",
                   "steak",
-                  "turkey drumsticks",
-                  "beef ribs",
-                  "venison",
-                  "honey glazed ham",
-                  "roast raccoon"
+                  "pilon de dinde",
+                  "côtes de boeuf",
+                  "venaison",
+                  "jambon au miel glacé",
+                  "rôtide raton laveur"
                ]
             }
          }         
@@ -204,19 +204,19 @@
             "dream_parts" : {
                "type" : "random_array",
                "entries" : [
-                  "__monsters__ were attacking our caravan.",
-                  "the __prosaic_plural_noun__ grew arms and legs and began to __action_verb__",
-                  "__teacher__ asked me to __action_verb__ in front of a large audience",
-                  "I found a __material_adjective__ mirror under my pillow"
+                  "Des __monsters__ attaquent norte campement.",
+                  "Les __prosaic_plural_noun__ ont des bras et des jambes qui poussent et ils ont commencé à __action_verb__",
+                  "__teacher__ m'a demandé de __action_verb__ devant un large public!",
+                  "J'avais trouvé un mirroir __material_adjective__ sous mon oreiller"
                ]
             },
             "beleaguered_leader_dream_reaction" : {
                "type" : "random_array",
                "entries" : [
-                  "I need to get out more often.",
-                  "I need to spend more time alone.",
-                  "Why me?",
-                  "I can't wait to wake up."
+                  "Je devrais me réveillé plus souvent.",
+                  "Je devrais passé plus de temps seul.",
+                  "Pourquoi moi?",
+                  "Je ne peut pas attendre de me réveiller."
                ]
             },
             "dream_monsters" : {

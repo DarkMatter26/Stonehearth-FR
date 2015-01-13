@@ -7,18 +7,18 @@
                "probability" : 100
             }
          ],
-         "text" : "On Eating:",
+         "text" : "En mangeant:",
          "type" : "random",
          "default_namespace" : "stonehearth:settler_journals:eat_once_daily",
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "__Teacher__, thank you for this __recent_food__.",
-               "Dear Diary. Today I'm eating: __recent_food__. __eat_reactions__", 
-               "Food! The __recent_food__ tastes surprisingly good today.", 
-               "Never really valued food like this __recent_food__ till we moved out here.", 
-               "Being fed is much, much, much cooler than being hungry.", 
-               "Oh boy! A __recent food__. Tastes good in the tummy"
+               "__Teacher__, merci pour cette __recent_food__.",
+               "Cher journal. Aujourd'hui je mange: __recent_food__. __eat_reactions__", 
+               "De la nourriture! La __recent_food__ a un goûtétonnament bon aujourd'hui", 
+               "On a jamais vraiment aprécier la nourriture comme ce __recent_food__ depuis que nous avons déménager ici.", 
+               "Être nourris est beaucoup, beaucoup, beaucoup mieux que d'avoir faim!", 
+               "Hé Garçon! Ton/ta __recent food__. C'est super bon pour mon ventre!"
                ]
             }
          }
@@ -32,13 +32,13 @@
                "type" : "random_array", 
                "entries" : [
                   "Mmm!", 
-                  "Food is good.",
+                  "La nourriture est bonne.",
                   "Wooo!",
-                  "Happiness.",
-                  "Joy.", 
-                  "Oh boy!", 
-                  "Delicious",
-                  "Better than starving!"
+                  "Super.",
+                  "Joie.", 
+                  "Oh punaise !", 
+                  "Délicieux",
+                  "Toujours mieux que de mourrir de faim!"
                ]
             }
          }

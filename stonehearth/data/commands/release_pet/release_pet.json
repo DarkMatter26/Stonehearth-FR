@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "release_pet",
-   "tooltip": "Release Pet",
-   "description" : "Tell this pet you don't want it anymore.",
+   "tooltip": "Libérer l'animal",
+   "description" : "Dire à cet animal de compagnie, que vous ne le voulez plus.",
    "icon": "file(release_pet.png)",
 
    "action": "call",

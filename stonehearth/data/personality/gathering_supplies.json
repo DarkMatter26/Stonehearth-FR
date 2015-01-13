@@ -7,7 +7,7 @@
                "probability" : 10
             }
          ],
-         "text" : "On Gathering:",
+         "text" : "En cueillant:",
          "type" : "random",
          "default_namespace" : "stonehearth:settler_journals:gathering_supplies",
          "logs_by_personality" : {
@@ -26,10 +26,10 @@
             "gather_statement" : {
                "type" : "random_array", 
                "entries" : [
-                  "Today I'll be gathering a __gather_target__!",
-                  "__gather_target__.",
-                  "Another __gather_target__!",
-                  "Time to get a __gather_target__!"
+                  "Aujourd'hui on va rammaser des __gather_target__!",
+                  "Des __gather_target__.",
+                  "D'autres __gather_target__!",
+                  "Il est temps d'obtenir des __gather_target__!"
                ]
             },
             "personality_gather_reaction" : {
@@ -43,30 +43,30 @@
             "generic_reaction" : {
                "type" : "random_array", 
                "entries" : [
-                  "Yaaay!",
-                  "Yaaay?",
-                  "Good stuff to have on hand.",
-                  "Off to work!",
-                  "Here goes!",
-                  "I guess I'll try not to make a mess.",
+                  "Ouais!",
+                  "Ouais?",
+                  "De bonne choses a avoir sous la main.",
+                  "Arrêt de travail!",
+                  "On va ici!",
+                  "Je pense que je vais essayer de ne pas faire de gâchis.",
                   ""
                ]
             },
             "b_leader_reaction" : {
                "type" : "random_array", 
                "entries" : [
-                  "Time to get to work!",
-                  "Hi ho!",
-                  "Joy.",
-                  "Remember: I chose to be here."
+                  "Il est temps d'aller bosser!",
+                  "Hé ho!",
+                  "Joie.",
+                  "Souvenez-vous: J'ai choisi d'être ici."
                ]
             },
             "h_optimist_reaction" : {
                "type" : "random_array", 
                "entries" : [
-                  "Who would't love this?",
-                  "Forward!",
-                  "Everyone look!"
+                  "Qui n'aime pas ça?",
+                  "En avant!",
+                  "Regardez là-bas!"
                ]
             }
          }
@@ -85,9 +85,9 @@
             "generic_exclamations" : {
                "type" : "random_array", 
                "entries" : [
-                  "Whoa.",
+                  "Holà.",
                   "Ok!",
-                  "Yup.",
+                  "Ouaip.",
                   "Uh huh.",
                   ""
                ]
@@ -95,10 +95,10 @@
             "b_leader_exclamations" : {
                "type" : "random_array", 
                "entries" : [
-                  "Listen up, everyone!",
-                  "Gear up, everyone!",
-                  "Taking one for the team...",
-                  "Leading the charge:",
+                  "Écoutez tout le monde!",
+                  "Préparez-vous tous!",
+                  "En prendre une par équipe...",
+                  "Je mène la charge:",
                   ""
                ]
             },
@@ -106,7 +106,7 @@
                "type" : "random_array", 
                "entries" : [
                   "Woo!!!",
-                  "So excited!!",
+                  "Tellement excitant!!",
                   "Oooh!"
                ]
             }

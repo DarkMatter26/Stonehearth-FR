@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "plant_crop",
-   "tooltip": "Plant a crop!",
-   "description" : "Plant something in this square.",
+   "tooltip": "Planter une culture!",
+   "description" : "Planter quelque chose dans cette zone.",
    "icon": "file(plant_crop.png)",
 
    "action": "call",

@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Wooden Wall-Mounted Sign",
-   "description" : "A generic sign, to identify your buildings",
-   "flavor"      : "But if it's *generic*, how will...? NM. (-sdee)",
+   "recipe_name" : "Enseigne Mural en bois",
+   "description" : "Une enseigne générique, pour identifier vos bâtiments",
+   "flavor"      : "Mais s'il a * générique *, comment on va... ? NM. (-sdee)",
    "portrait"    : "/stonehearth/entities/decoration/wooden_sign/wooden_sign.png",
    "level_requirement" : 1,
 

@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Carpenter's Wall-Mounted Sign",
-   "description" : "A sign with the mark of the Carpenter, to be placed on buildings.",
-   "flavor"      : "Get your wooden things right here!",
+   "recipe_name" : "Enseigne Mural en bois pour le Charpentier",
+   "description" : "Une enseigne avec la marque du charpentier, apposé sur les bâtiments.",
+   "flavor"      : "Obtenez vos objets en bois ici !",
    "portrait"    : "/stonehearth/entities/decoration/wooden_sign_carpenter/wooden_sign_carpenter.png",
    "level_requirement" : 1,
 

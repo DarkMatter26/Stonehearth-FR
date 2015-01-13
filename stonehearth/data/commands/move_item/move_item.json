@@ -2,9 +2,9 @@
    "type" : "command",
 
    "name": "move_item",
-   "tooltip": "Move item",
-   "description" : "Move this thing somewhere else in the world.",
-   "disabled_description": "This item is in use. Try moving it later.",
+   "tooltip": "Déplacer l'objet",
+   "description" : "Déplacer cet objet ailleurs dans le monde.",
+   "disabled_description": "Cet objet est utilisé. Essayez de le déplacer plus tard.",
    "default_enabled": true,
    "icon": "file(move_item.png)",
 

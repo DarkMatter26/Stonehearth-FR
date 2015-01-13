@@ -7,27 +7,27 @@
                "probability" : 100
             }
          ],
-         "text" : "On Hearing the Call of the Saw:",
+         "text" : "En  entendant l'appel de la Scie:",
          "type" : "random",
          "logs_by_personality" : {
             "beleaguered_leader" : {
                "logs" : [
-               "It is my turn to wield the saw. Too bad mom always said I was bad with power."
+               "C'est à mon tour de magnier la scie. c'est dommage mère m'a toujours dit que c'était mal de le faire."
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "Me, Carpenter? YES!! I've always wanted to make minature chairs!!!"
+               "Moi, charpentier? OUI!! J'ai toujours voulue faires des chaises miniatures!!!"
                ]
             },
             "lovable_rogue" : {
                "logs" : [
-               "You want me to be the carpenter? Can I... sell the stuff I make? Or is this communal property?"
+               "Vous voulez me faire charpentier? Est-ce que je pourrais...vendre les objets que je fabriquerais? Ou c'est une propriété commune?"
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
-               "The Saw? Where some people see a tool, I see a serrated weapon. Saw, you are my new best friend."
+               "La Scie? Où les gens voyent un outils, Je vois une arme cranté. Scie, Tu es mon nouveau meilleur ami"
                ]
             },
             "insufferable_academic" : {
@@ -37,7 +37,7 @@
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "Me? You want me to be the carpenter? Ok, I'll do my best!"
+               "Moi? Vous voulez que je sois charpentier? Ok, Je ferais de mon mieux!"
                ]
             }
          }

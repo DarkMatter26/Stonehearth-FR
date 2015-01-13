@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "remove_ladder",
-   "tooltip": "Remove",
-   "description" : "Remove this ladder.",
+   "tooltip": "Supprimer",
+   "description" : "Supprimer cette échelle.",
    "default_enabled": true,
    "icon": "file(remove_ladder.png)",
 

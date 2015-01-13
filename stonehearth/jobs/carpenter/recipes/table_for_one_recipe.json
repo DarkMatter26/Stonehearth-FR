@@ -2,9 +2,9 @@
    "type":"recipe",
 
    "work_units"  : 3,
-   "recipe_name" : "Table for One",
-   "description" : "Better than eating standing up. Unless you're watching your weight.",
-   "flavor"      : "Dining furniture for introverts.",
+   "recipe_name" : "Table une Personne",
+   "description" : "Mieux que de manger debout. Sauf si vous êtes en train de regarder votre poids.",
+   "flavor"      : "Meubles salle à manger pour les introvertis.",
    "portrait"    : "/stonehearth/entities/furniture/table_for_one/table_for_one.png",
 
    "ingredients": [

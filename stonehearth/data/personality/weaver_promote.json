@@ -8,37 +8,37 @@
                "probability" : 100
             }
          ],
-         "text" : "On Spindles:",
+         "text" : "Sur le feu:",
          "type" : "random",
          "logs_by_personality" : {
             "beleaguered_leader" : {
                "logs" : [
-               "I don't know... I always expected a more epic role in life. Well, this will probably be good for my blood pressure."
+               "Je ne sais pas ... J'attendais toujours un rôle plus épique dans ma vie. Eh bien, ce sera probablement bon pour ma tension artérielle."
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "Woo! Now that I'm the weaver, I live to make comfy beds for everyone!"
+               "Woo! Maintenant que je suis le tisserand, je vis pour faire des lits confortables pour tout le monde!"
                ]
             },
             "lovable_rogue" : {
                "logs" : [
-               "Hmm... if a spider is a weaver, is a weaver like a spider? Everyone shall sleep safe in my webs. ...Was that too creepy?"
+               "Hmm ... si une araignée est un tisserand, un tisserand est comme une araignée? Tout le monde devra dormir en sécurité dans mes toiles. ... Est-ce trop effrayant?"
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
-               "You want me to be the weaver? Everything I know about weaving: jab the pointy end into the other person. This should be interesting."
+               "Vous voulez que je sois le tisserand? Tout ce que je sais à propos de tissage: piquer le bout pointu dans l'autre personne. Cela devrait être intéressant."
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "There is a meditative grace in fine knotwork. Stare, my friends, stare until your souls belong to meeeeee."
+               "Il y a une grâce méditative au final dans le travail des noeuds. Regardez fixement, mes amis, regardez fixement jusqu'à ce que vos âmes m'appartienne."
                ]
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "Oh! First thing's first--time to make everyone a new winter scarf!"
+               "Oh! La première chose à faire--Il est temps de faire pour tout le monde une nouvelle écharpe d'hiver!"
                ]
             }
          }
