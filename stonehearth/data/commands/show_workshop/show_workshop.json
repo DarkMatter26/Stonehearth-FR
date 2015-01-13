@@ -3,8 +3,8 @@
 
    "name": "show_workshop",
    "tooltip": "Afficher l'Atelier",
-   "description": "Votre artisan utilise l'atelier pour construire les objets utiles Ã  votre ville.",
-   "disabled_description": "Votre artisan utilise l'atelier pour construire les objets utiles Ã  votre ville. Avant  de pouvoir fabriquer, vous devez assigner un artisan Ã  cet atelier.",
+   "description": "Votre artisan utilise l'atelier pour construire les objets utiles à votre ville.",
+   "disabled_description": "Votre artisan utilise l'atelier pour construire les objets utiles à votre ville. Avant  de pouvoir fabriquer, vous devez assigner un artisan à cet atelier.",
    "default_enabled": false,
    "icon": "file(show_workshop.png)",
 

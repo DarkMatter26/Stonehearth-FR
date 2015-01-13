@@ -1,7 +1,7 @@
 {
    "type" : "debuff",
    "name" : "Tellement lourds!",
-   "description" : "Porter des choses lourdes fait Ã©videment que les gens se dÃ©placent plus lentement!",
+   "description" : "Porter des choses lourdes fait évidement que les gens se déplacent plus lentement!",
    "icon" : "file(carrying_buff.png)",
    "invisible_to_player" : true,
    "modifiers" : {

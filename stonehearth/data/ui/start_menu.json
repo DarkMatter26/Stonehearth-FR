@@ -1,7 +1,7 @@
 {
    "harvest_menu" : {
-      "name" : "R√©colter",
-      "description" : "R√©colter les ressources du sol comme du bois, de la pierre et des minerais.",
+      "name" : "RÈcolter",
+      "description" : "RÈcolter les ressources du sol comme du bois, de la pierre et des minerais.",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/dock_harvest.png",
       "hotkey" : "1",
@@ -9,7 +9,7 @@
       "clickSound": "stonehearth:sounds:ui:start_menu:harvest_pickup"
    },
    "build_menu" : {
-      "name" : "Construction & Mod√®le",
+      "name" : "Construction & ModËle",
       "description" : "Construire des structures comme les maisons et les murs de la ville.",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/dock_build.png",
@@ -19,8 +19,8 @@
       "menuShowSound": "stonehearth:sounds:ui:start_menu:wash_in",
       "items" : {
       "building_templates" : {
-            "name" : "Construire un b√¢timent",
-            "description" : "Construction de b√¢timents comme les maisons et tours",
+            "name" : "Construire un b‚timent",
+            "description" : "Construction de b‚timents comme les maisons et tours",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/design_building.png",
             "sticky" : true,
@@ -28,7 +28,7 @@
          },
          "place_item" : {
             "name" : "Placer un l'objet",
-            "description" : "Placer les articles comme les meubles et la d√©coration",
+            "description" : "Placer les articles comme les meubles et la dÈcoration",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/place_item.png",
             "sticky" : true,
@@ -36,15 +36,15 @@
          },
          "build_road" : {
             "name" : "Construire une Route",
-            "description" : "Ajouter des routes √† votre ville",
+            "description" : "Ajouter des routes ‡ votre ville",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/roads.png",
             "sticky" : true,
             "hotkey" : ""
          },
          "build_ladder" : {
-            "name" : "Construire une √©chelle",
-            "description" : "Construire une √©chelle pour atteindre des endroits difficile d'acc√®s",
+            "name" : "Construire une Èchelle",
+            "description" : "Construire une Èchelle pour atteindre des endroits difficile d'accËs",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/build_ladder.png",
             "sticky" : true,
@@ -54,7 +54,7 @@
    },
    "mining_menu" : {
       "name" : "Mine & Paysage",
-      "description" : "Changer la forme du terrain, avec les mines et l'am√©nagement paysager",
+      "description" : "Changer la forme du terrain, avec les mines et l'amÈnagement paysager",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/dock_mine.png",
       "hotkey" : "3",
@@ -72,8 +72,8 @@
       }
    },   
    "fight_menu" : {
-      "name" : "Combattre & D√©fendre",
-      "description" : "G√©rer vos forces de combat",
+      "name" : "Combattre & DÈfendre",
+      "description" : "GÈrer vos forces de combat",
       "class" : "dock",
       "hotkey" : "6",
       "icon" : "/stonehearth/ui/game/start_menu/images/dock_defend.png",
@@ -83,7 +83,7 @@
       "items" : {
          "red_alert" : {
             "name" : "Alerte Rouge!",
-            "description" : "Rassemble les travailleurs pour d√©fendre la ville!",
+            "description" : "Rassemble les travailleurs pour dÈfendre la ville!",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/red_alert.png",
             "sticky" : true,
@@ -93,7 +93,7 @@
    },   
    "town_menu" : {
       "name" : "Infos sur la ville",
-      "description" : "Informations g√©n√©rales sur votre ville, comment vos citoyens se sentent, et la richesse que vous avez accumul√©!",
+      "description" : "Informations gÈnÈrales sur votre ville, comment vos citoyens se sentent, et la richesse que vous avez accumulÈ!",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/town_banner.png",
       "hotkey" : "i",
@@ -101,8 +101,8 @@
       "clickSound": "stonehearth:sounds:banner_grab"
    },   
    "zone_menu" : {
-      "name" : "D√©signer des Zones",
-      "description" : "D√©signer des zones au sol pour le stockage, l'agriculture, etc.",
+      "name" : "DÈsigner des Zones",
+      "description" : "DÈsigner des zones au sol pour le stockage, l'agriculture, etc.",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/dock_zone.png",
       "hotkey" : "4",
@@ -111,8 +111,8 @@
       "menuShowSound": "stonehearth:sounds:ui:start_menu:wash_in",
       "items" : {
          "create_stockpile" : {
-            "name" : "R√©serve",
-            "description" : "Placer une r√©serve pour stocker des ressources.",
+            "name" : "RÈserve",
+            "description" : "Placer une rÈserve pour stocker des ressources.",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/zone_stockpile.png",
             "sticky" : true,
@@ -127,8 +127,8 @@
             "hotkey" : "f"
          },
          "create_trapping_grounds" : {
-            "name" : "Zone de Pi√®ge",
-            "description" : "Placer des pi√®ges pour capturer de petites bestioles.",
+            "name" : "Zone de PiËge",
+            "description" : "Placer des piËges pour capturer de petites bestioles.",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/zone_trap.png",
             "sticky" : true,
@@ -144,8 +144,8 @@
       }
    },
    "citizen_manager" : {
-      "name" : "G√©rer les citoyens",
-      "description" : "G√©rer vos colons et les promouvoir aupr√®s des nouveaux emplois.",
+      "name" : "GÈrer les citoyens",
+      "description" : "GÈrer vos colons et les promouvoir auprËs des nouveaux emplois.",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/citizens.png",
       "hotkey" : "5",
@@ -155,7 +155,7 @@
    },
    "dead_button" : {
       "name" : "TBD",
-      "description" : "Nous avons un emplacement √† utiliser. Une Id√©es ?",
+      "description" : "Nous avons un emplacement ‡ utiliser. Une IdÈes ?",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/dead.png",
       "hotkey" : "7",
@@ -164,8 +164,8 @@
       "menuShowSound": "stonehearth:sounds:ui:start_menu:jobs_open"
    },
    "tasks_manager" : {
-      "name" : "Gestion des t√¢ches",
-      "description" : "T√¢che √† effectuer.",
+      "name" : "Gestion des t‚ches",
+      "description" : "T‚che ‡ effectuer.",
       "class" : "dock",
       "icon" : "/stonehearth/ui/game/start_menu/images/tasks.png",
       "hotkey" : "7",

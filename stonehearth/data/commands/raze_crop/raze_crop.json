@@ -3,7 +3,7 @@
 
    "name": "raze_crop",
    "tooltip": "Vider la Zone",
-   "description" : "Effacer ou rÃ©colter tout le contenu de cette zone.",
+   "description" : "Effacer ou récolter tout le contenu de cette zone.",
    "icon": "file(raze_crop.png)",
 
    "action": "call",

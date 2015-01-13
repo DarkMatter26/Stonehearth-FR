@@ -8,56 +8,56 @@
                "probability" : 100
             }
          ],
-         "text" : "En mangeant la mÃªme chose plusieurs fois:",
+         "text" : "En mangeant la même chose plusieurs fois:",
          "type" : "random",
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
                "Encore des __recent_food__? Cool.",
                "Si je mange encore une fois des __recent_food__ je pourrais vomir.",
-               "J'aimerais avoir autre chose Ã  manger que des __recent_food__."
+               "J'aimerais avoir autre chose à manger que des __recent_food__."
                ]
             },
             "beleaguered_leader" : {
                "logs" : [
                "Encore du __recent_food__? Cool.",
-               "Autant gober Ã§a rapidement : du __recent_food__ ; j'essaye d'Ãªtre un bon exemple.",
-               "La/le __recent_food__ a certainement un meilleur goÃ»t que la famine, mais bon...",
-               "La/le __recent_food__ encore? Je sens que la rÃ©volte arrive."
+               "Autant gober ça rapidement : du __recent_food__ ; j'essaye d'être un bon exemple.",
+               "La/le __recent_food__ a certainement un meilleur goût que la famine, mais bon...",
+               "La/le __recent_food__ encore? Je sens que la révolte arrive."
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "Peut-Ãªtre que si je mange assez de cette nourriture, je pourrais devenir cette nourriture!",
-               "La/le __recent_food__ encre? Mes mÃ¢choires me font mal.",
-               "C'est bon, ma langue! PrÃ©tend juste que tu ne peux pas gouter le/la __recent_food__." 
+               "Peut-être que si je mange assez de cette nourriture, je pourrais devenir cette nourriture!",
+               "La/le __recent_food__ encre? Mes mâchoires me font mal.",
+               "C'est bon, ma langue! Prétend juste que tu ne peux pas gouter le/la __recent_food__." 
                ]
             },
             "lovable_rogue" : {
                "logs" : [
                "Des __recent_food__. Bon.",
-               "Des __recent_food__? J'ai oubliÃ© le steak?.",
-               "La valeur au marcher des __recent_food__ est trÃ¨s proche de zÃ©ro maintenant??."
+               "Des __recent_food__? J'ai oublié le steak?.",
+               "La valeur au marcher des __recent_food__ est très proche de zéro maintenant??."
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
                "Il n'y a rien d'autre a manger hormis des __recent_food__? Dix jours comme cela et je tue pour de la vrai viande.",
-               "J'ai mangÃ© tellement de Ã§a que je peux savoir son goÃ»t pendant mon sommeil.",
-               "Si je dois mangÃ© encore un fois des __recent_food__ je vous jure que je vais commencÃ©  a baver."
+               "J'ai mangé tellement de ça que je peux savoir son goût pendant mon sommeil.",
+               "Si je dois mangé encore un fois des __recent_food__ je vous jure que je vais commencé  a baver."
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "Des __recent_food__ encore? Si seulement les gens pouvait Ãªtre nourris uniquement par la connaissance.",
-               "Une bonne digestion ne semble pas se produire sur un rÃ©gime d'une seule nourriture."
+               "Des __recent_food__ encore? Si seulement les gens pouvait être nourris uniquement par la connaissance.",
+               "Une bonne digestion ne semble pas se produire sur un régime d'une seule nourriture."
                ]
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "More __recent_food__? Nous pouvons peut-Ãªtre en sÃ©cher une partie pour la manger plus tard?", 
-               "Je ne veux pas me plaindre, mais tout ce que j'ai mangÃ© rÃ©cemment est ce __recent_food__. Ã‡a commence a faire mal Ã  ma bouche.",
-               "Des __recent_food__! Je dois... garder cette nourriture... dans ma bouche pour la mÃ¢cher.... et ne pas ... la gober!"
+               "More __recent_food__? Nous pouvons peut-être en sécher une partie pour la manger plus tard?", 
+               "Je ne veux pas me plaindre, mais tout ce que j'ai mangé récemment est ce __recent_food__. Ça commence a faire mal à ma bouche.",
+               "Des __recent_food__! Je dois... garder cette nourriture... dans ma bouche pour la mâcher.... et ne pas ... la gober!"
                ]
             }
          }
@@ -76,32 +76,32 @@
             "generic" : {
                "logs" : [
                "Wow! Ces __recent_food__ me fais me sentir en bonne forme!", 
-               "Ces __recent_food__ Ã©tait surprenamment satisfaisante!", 
-               "__recent_food__? TrÃ¨s nourrissante!", 
-               "Ces __recent_food__ sont entrain de nous ravitailler pour notre belle journÃ©e de travail!"
+               "Ces __recent_food__ était surprenamment satisfaisante!", 
+               "__recent_food__? Très nourrissante!", 
+               "Ces __recent_food__ sont entrain de nous ravitailler pour notre belle journée de travail!"
                ]
             },
             "beleaguered_leader" : {
                "logs" : [
-               "Wow. Qui aurait pu deviner que ces __recent_food__ Ã©tait super-nourrissant?",
-               "Ce __recent_food__ fut une agrÃ©able surprise.",
-               "Ce __recent_food__ Ã©tait tellement bon que je demande Ã  ce qu'il soit mangÃ© en prioritÃ©.",
-               "Arr! Maintenant je me sens comme un super-hÃ©ros!"
+               "Wow. Qui aurait pu deviner que ces __recent_food__ était super-nourrissant?",
+               "Ce __recent_food__ fut une agréable surprise.",
+               "Ce __recent_food__ était tellement bon que je demande à ce qu'il soit mangé en priorité.",
+               "Arr! Maintenant je me sens comme un super-héros!"
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
                "Wow! Je me sens bien!", 
-               "Nous devons prÃ©parer plus de ce __recent_food__ pour que tout le monde puisse en manger!",
+               "Nous devons préparer plus de ce __recent_food__ pour que tout le monde puisse en manger!",
                "Plus plus plus, plus de ce __recent_food__."
                ]
             },
             "lovable_rogue" : {
                "logs" : [
-               "Wow, Qui savait que le/la __recent_food__ Ã©tait si incroyablement amincissant?", 
-               "Ce __recent_food__ Ã©tait la meilleur chose que j'ai mangÃ© depuis longtemps.",
-               "Je parie que je pourrais montÃ© un marchÃ© de cette nourriture. Ã€ moins que je dois la garder pour moi tout seul?",
-               "C'Ã©tait un(e) incroyable __recent_food__. Gloire Ã  __teacher__ et Ã  la grande Ã‰glise!"
+               "Wow, Qui savait que le/la __recent_food__ était si incroyablement amincissant?", 
+               "Ce __recent_food__ était la meilleur chose que j'ai mangé depuis longtemps.",
+               "Je parie que je pourrais monté un marché de cette nourriture. À moins que je dois la garder pour moi tout seul?",
+               "C'était un(e) incroyable __recent_food__. Gloire à __teacher__ et à la grande Église!"
                ]
             }
          }
@@ -114,16 +114,16 @@
                "probability" : 100
             }
          ],
-         "text" : "En mangeant quelque chose de diffÃ©rant:",
+         "text" : "En mangeant quelque chose de différant:",
          "type" : "random",
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "Mmm, J'adore la diversitÃ© de mon alimentation.",
-               "Manger ce __recent_food__ fut un agrÃ©able changement de rythme.",
-               "Avoir diffÃ©rente chose Ã  l'heure du repas met vraiment en synergie les saveurs!",
-               "ce __recent_food__ a un meilleur goÃ»t quand on n'en a pas mangÃ© depuis longtemps.",
-               "Gloire Ã  __teacher__! La diversitÃ© de ma nourriture me rend heureux."
+               "Mmm, J'adore la diversité de mon alimentation.",
+               "Manger ce __recent_food__ fut un agréable changement de rythme.",
+               "Avoir différente chose à l'heure du repas met vraiment en synergie les saveurs!",
+               "ce __recent_food__ a un meilleur goût quand on n'en a pas mangé depuis longtemps.",
+               "Gloire à __teacher__! La diversité de ma nourriture me rend heureux."
                ]
             }
          }

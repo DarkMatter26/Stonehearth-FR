@@ -3,7 +3,7 @@
 
    "name": "build_workshop",
    "tooltip": "Construire l'Atelier",
-   "description": "CrÃ©er un lieu pour la productivitÃ©!",
+   "description": "Créer un lieu pour la productivité!",
    "icon": "file(build_workshop.png)",
 
    "action": "fire_event",

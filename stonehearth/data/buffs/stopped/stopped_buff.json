@@ -1,7 +1,7 @@
 {
    "type" : "debuff",
-   "name" : "ArrÃªtÃ©",
-   "description" : "Activer sur quelqu'un qui doit s'arrÃªter, dÃ¨s maintenant.",
+   "name" : "Arrêté",
+   "description" : "Activer sur quelqu'un qui doit s'arrêter, dès maintenant.",
    "invisible_to_player" : true,
    "modifiers" : {
       "speed" : {

@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "undeploy_item",
-   "tooltip": "Annuler le dÃ©ploiement",
-   "description" : "Annulez le dÃ©ploiement de cet objet et le remettre en stock",
+   "tooltip": "Annuler le déploiement",
+   "description" : "Annulez le déploiement de cet objet et le remettre en stock",
    "icon": "file(undeploy_item.png)",
 
    "action": "fire_event",

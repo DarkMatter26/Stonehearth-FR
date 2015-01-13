@@ -2,7 +2,7 @@
    "type" : "debuff",
    
    "name" : "Chancelant",
-   "description" : "Une nuit de sommeil difficile sur le terrain rÃ©duit la vitesse de 50%. Un lit serait beaucoup mieux!",
+   "description" : "Une nuit de sommeil difficile sur le terrain réduit la vitesse de 50%. Un lit serait beaucoup mieux!",
    "short_description" : "50% de vitesse en moins",
    "icon" : "file(groggy_buff.png)",
    "duration" : "3h",

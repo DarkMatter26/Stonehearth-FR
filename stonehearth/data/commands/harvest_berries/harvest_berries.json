@@ -3,8 +3,8 @@
 
    "name": "harvest_berries",
    "tooltip" : "Cueillir les baies",
-   "description" : "Ce buisson produit des fruits qui peuvent Ãªtre collectÃ©es pour alimenter vos colons.",
-   "disabled_description" : "Les baies sur ce buisson ne sont pas encore mÃ»res!",
+   "description" : "Ce buisson produit des fruits qui peuvent être collectées pour alimenter vos colons.",
+   "disabled_description" : "Les baies sur ce buisson ne sont pas encore mûres!",
 
    "default_enabled": true,  
    "icon": "file(gather_berries.png)",

@@ -1,6 +1,6 @@
 {
    "type" : "buff",
-   "name" : "DÃ©fenseur",
+   "name" : "Défenseur",
    "description" : "Augmente le courage!",
    "icon" : "file(defender_buff.png)",
    "modifiers" : {

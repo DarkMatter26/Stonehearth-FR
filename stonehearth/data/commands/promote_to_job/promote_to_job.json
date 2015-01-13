@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "promote_to_job",
-   "tooltip": "Changer de mÃ©tiers",
-   "description" : "Donner Ã  ce citoyen un nouvel emploi.",
+   "tooltip": "Changer de métiers",
+   "description" : "Donner à ce citoyen un nouvel emploi.",
    "icon": "file(promote_to_job.png)",
 
    "action": "fire_event",

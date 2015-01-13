@@ -3,7 +3,7 @@
 
    "name": "remove_ladder",
    "tooltip": "Supprimer",
-   "description" : "Supprimer cette Ã©chelle.",
+   "description" : "Supprimer cette échelle.",
    "default_enabled": true,
    "icon": "file(remove_ladder.png)",
 

@@ -1,8 +1,8 @@
 {
    "type" : "debuff",
    
-   "name" : "AffamÃ©",
-   "description" : "Les citoyens affamÃ© ont sÃ©rieusement besoin de nourriture ! cela rÃ©duit leur vitesse de dÃ©placement de 20%",
+   "name" : "Affamé",
+   "description" : "Les citoyens affamé ont sérieusement besoin de nourriture ! cela réduit leur vitesse de déplacement de 20%",
    "short_description" : "20% de vitesse en moins",
    "icon" : "file(starving_buff.png)",
 

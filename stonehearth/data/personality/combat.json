@@ -13,20 +13,20 @@
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-                  "Ã‡a fais du bien d'Ãªtre en vie!",
-                  "Une nouvelle superbe journÃ©e en ville.", 
-                  "La tranquillitÃ©!",
-                  "Cela semble Ãªtre un endroit assez abritÃ©.",
-                  "J'Ã©tais incroyablement productif aujourd'hui!",
-                  "Pas grand chose Ã  faire aujourd'hui Ã  part le bonheur d'Ãªtre en vie!",
-                  "La nature est bien sÃ»r superbe!",
-                  "C'est gÃ©nial d'Ãªtre ici avec famille et amis.",
-                  "Faire un campement ici Ã©tait une super idÃ©e.",
-                  "Soyer heureux avec une belle journÃ©e de travail!",
-                  "Ã‡a ressemble vraiment Ã  un endroit ou on peut construire quelque chose de bien.",
+                  "Ça fais du bien d'être en vie!",
+                  "Une nouvelle superbe journée en ville.", 
+                  "La tranquillité!",
+                  "Cela semble être un endroit assez abrité.",
+                  "J'étais incroyablement productif aujourd'hui!",
+                  "Pas grand chose à faire aujourd'hui à part le bonheur d'être en vie!",
+                  "La nature est bien sûr superbe!",
+                  "C'est génial d'être ici avec famille et amis.",
+                  "Faire un campement ici était une super idée.",
+                  "Soyer heureux avec une belle journée de travail!",
+                  "Ça ressemble vraiment à un endroit ou on peut construire quelque chose de bien.",
                   "Bonheur ininterrompu! J'adore les jours comme celui-ci.",
-                  "24 heures de pure tranquillitÃ©.",
-                  "Une journÃ©e entiÃ¨re sans la moindre petit menace! Incroyable!"
+                  "24 heures de pure tranquillité.",
+                  "Une journée entière sans la moindre petit menace! Incroyable!"
                ]
             }
          }
@@ -47,16 +47,16 @@
                   "Aah! Ca fais vraiment mal!",
                   "Je suis en danger!",
                   "J'ai mal!",
-                  "Ã‡a fais mal!Je dois... continuer!",
-                  "Les choses se prÃ©sentent mal!", 
-                  "Ne peut pas prendre beaucoup plus de Ã§a !",
-                  "Ma vie commence Ã  me passer devant mes yeux.",
-                  "Devrais-je Ãªtre inquiet?",
-                  "J'aurais du Ã©crire Ã  ma mÃ¨re plus de lettres.", 
-                  "Si j'arrive a rester en vie, je vais Ã©crire Ã  grand-mÃ¨re et lui dire que je l'aime.", 
+                  "Ça fais mal!Je dois... continuer!",
+                  "Les choses se présentent mal!", 
+                  "Ne peut pas prendre beaucoup plus de ça !",
+                  "Ma vie commence à me passer devant mes yeux.",
+                  "Devrais-je être inquiet?",
+                  "J'aurais du écrire à ma mère plus de lettres.", 
+                  "Si j'arrive a rester en vie, je vais écrire à grand-mère et lui dire que je l'aime.", 
                   "J'ai besoin d'aide ici!", 
                   "On dois continuer!!!", 
-                  "Raagh, prenez Ã§a!", 
+                  "Raagh, prenez ça!", 
                   "Si je descends,vous venez avec moi!", 
                   "Pour mes amis! Pour mon village!",
                   "Je fais mon dernier combat ici et maintenant!"
@@ -79,16 +79,16 @@
                "logs" : [
                   "__dead_friend__? __dead_friend__!!!", 
                   "__teacher__ rester en vie, __dead_friend__.", 
-                  "__dead_friend__? Ce ne sera plus jamais la mÃªme chose sans toi.",
+                  "__dead_friend__? Ce ne sera plus jamais la même chose sans toi.",
                   "__dead_friend__!!! Nooooooon!!!", 
-                  "Au-revoir, __dead_friend__. J'espÃ¨re pouvoir te rencontrer Ã  nouveau un jour.", 
-                  "__dead_friend__? Mais... Qu'est ce que je pourrais dire Ã  ton pÃ¨re la prochaine fois que je lui Ã©crirai?", 
-                  "Nous ne pouvons laisser la mort de __dead_friend__ Ãªtre en vain, les gens !", 
+                  "Au-revoir, __dead_friend__. J'espère pouvoir te rencontrer à nouveau un jour.", 
+                  "__dead_friend__? Mais... Qu'est ce que je pourrais dire à ton père la prochaine fois que je lui écrirai?", 
+                  "Nous ne pouvons laisser la mort de __dead_friend__ être en vain, les gens !", 
                   "Au revoir, __dead_friend__. Tu nous manqueras.", 
-                  "Ne t'inquiÃ¨te pas, __dead_friend__. Nous te vengerons!", 
+                  "Ne t'inquiète pas, __dead_friend__. Nous te vengerons!", 
                   "Je ne peux pas croire que __dead_friend__ est vraiment parti.",
-                  "__dead_friend__ ? Parti ? Soudain tout cela on dirait que ce n'Ã©tait pas la peine, en quelque sorte.",
-                  "Gee, maintenant je souhaite vraiment ne jamais avoir parlÃ© __dead_friend__ dans cette aventure.", 
+                  "__dead_friend__ ? Parti ? Soudain tout cela on dirait que ce n'était pas la peine, en quelque sorte.",
+                  "Gee, maintenant je souhaite vraiment ne jamais avoir parlé __dead_friend__ dans cette aventure.", 
                   "__dead_friend__!!"
                ]
             }
@@ -120,7 +120,7 @@
                   "Tout le monde se rend aux collines!", 
                   "Lacher tout et courrez!!!", 
                   "Ils sont beaucoup trop fort pour nous! Dispervez-vous tous!!", 
-                  "DÃ©cidez-vous Ã  courir vers la sortie!!!"
+                  "Décidez-vous à courir vers la sortie!!!"
                ]
             }, 
             "hopeless_optimist" : {
@@ -128,10 +128,10 @@
                   "Aaagh! Ils semblent si mauvais!!!!",
                   "Je ne te vois pas!! Je ne te vois pas!!!", 
                   "Des monstres!!!!!", 
-                  "Auugh! On peut pas Ãªtre juste amis??", 
+                  "Auugh! On peut pas être juste amis??", 
                   "Fuir pour que demain puisse devenir un nouveau JOOOOOooooooUUUUUUuuuuur!!!", 
                   "courir, courir, Fuir au loin de ces monstres malveillant !!!",
-                  "Je ne pense pas qu'ils veulent Ãªtre amiiiiiiiiiiiiis!!!"
+                  "Je ne pense pas qu'ils veulent être amiiiiiiiiiiiiis!!!"
                ]
             }, 
             "lovable_rogue" : {
@@ -140,7 +140,7 @@
                   "S'il vous plait, je ne veux pas mourrir!", 
                   "Il y a tellement de chose que je dois faire!!!!", 
                   "Je ne peux pas mourrir ici!!!", 
-                  "Je dois ... m'Ã©chapper!!!", 
+                  "Je dois ... m'échapper!!!", 
                   "Chaqun pour soi!!!"
                ]
             },
@@ -154,15 +154,15 @@
             }, 
             "insufferable_academic" : {
                "logs" : [
-                  "Retraite expÃ©ditive! Retraite expÃ©ditive!!!", 
+                  "Retraite expéditive! Retraite expéditive!!!", 
                   "En cas de doute, PANIQUE!!!",
                   "Garder son calme et  AIEEEEE!", 
-                  "::gÃ©missement silencieux::", 
-                  "Gardez vos distance dÃ©mond des cauchemars!", 
-                  "La terreur est mauvaise pour la prÃ©ssion sanguine!!!", 
+                  "::gémissement silencieux::", 
+                  "Gardez vos distance démond des cauchemars!", 
+                  "La terreur est mauvaise pour la préssion sanguine!!!", 
                   "Je fais un arret cardiaque!!!", 
-                  "Mon cerveau... paralisÃ©...!"
-                  "Ã€ l'aide! Ã€ L'AIIIIDE!!!"
+                  "Mon cerveau... paralisé...!"
+                  "À l'aide! À L'AIIIIDE!!!"
                ]
             }, 
             "diligent_sweetheart" : {
@@ -172,7 +172,7 @@
                   "AAAGH! MONSTRES!!!", 
                   "AAAA! S'il vous plait ne nous faites pas de mal!!!", 
                   "__teacher__ SAUVEZ NOUS!!!", 
-                  "si je ne peux pas le voir, peut-Ãªtre que je ne peux pas me voir?", 
+                  "si je ne peux pas le voir, peut-être que je ne peux pas me voir?", 
                ]
             }
          }

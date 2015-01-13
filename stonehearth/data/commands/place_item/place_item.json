@@ -2,7 +2,7 @@
    "type" : "command",
 
    "name": "place_item",
-   "tooltip": "DÃ©poser l'objet",
+   "tooltip": "Déposer l'objet",
    "description" : "Placez cet objet ici, dans le monde.",
    "icon": "file(place_item.png)",
 

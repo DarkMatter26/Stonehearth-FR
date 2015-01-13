@@ -13,53 +13,53 @@
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "Une journÃ©e entiÃ¨re sans nourriture? ::soupir::", 
-               "Je voudrais avoir quelque chose Ã  manger.",
-               "Aller toute une journÃ©e sans nourriture me rend tellement, tellement triste."
+               "Une journée entière sans nourriture? ::soupir::", 
+               "Je voudrais avoir quelque chose à manger.",
+               "Aller toute une journée sans nourriture me rend tellement, tellement triste."
                ]
             },
             "beleaguered_leader" : {
                "logs" : [
                "C'est juste 24 heures sans nourriture. Ne paniquer pas.", 
                "La faim est bon pour se discipliner.", 
-               "Je vais rÃªver de nourriture cette nuit.",
-               "Une journÃ©e entiÃ¨re sans nourriture? Ne te plein pas; tu dois Ãªtre un bon exemple."
+               "Je vais rêver de nourriture cette nuit.",
+               "Une journée entière sans nourriture? Ne te plein pas; tu dois être un bon exemple."
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "Wow, Je n'ai pas mangÃ© depuis 24 heures!",
-               "Toujours pas de nourriture Ã  minuit? Dans ce cas je vais boire le clair de lune.",
-               "J'ai tellement faim... Peut-Ãªtre que demain nous trouverons des baies."
+               "Wow, Je n'ai pas mangé depuis 24 heures!",
+               "Toujours pas de nourriture à minuit? Dans ce cas je vais boire le clair de lune.",
+               "J'ai tellement faim... Peut-être que demain nous trouverons des baies."
                ]
             },
             "lovable_rogue" : {
                "logs" : [
-               "24 heures sans nourritures? J'Ã©tais sur d'avoir une opportunitÃ© en venant ici, si seulement je n'avais pas si faim.",
-               "Personne n'as mangÃ© depuis longtemps. Je pourrais gagner beaucoup d'argent si j'avais une tarte aux pommes de maman.",
-               "Se passer de nourriture pendant une journÃ©e entiÃ¨re est Ã©tonnamment difficile."
+               "24 heures sans nourritures? J'étais sur d'avoir une opportunité en venant ici, si seulement je n'avais pas si faim.",
+               "Personne n'as mangé depuis longtemps. Je pourrais gagner beaucoup d'argent si j'avais une tarte aux pommes de maman.",
+               "Se passer de nourriture pendant une journée entière est étonnamment difficile."
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
-               "Une journÃ©e entiÃ¨re sans nourriture? Mon estomac va commencer Ã  se manger.",
-               "Je viens d'une journÃ©e entiÃ¨re sans manger une seule chose que ce soit. Demain, mes 'amis' faites attention Ã  vous.",
-               "Je n'ai peut-Ãªtre pas mangÃ© pendant une journÃ©e mais je suis toujours un dur Ã  cuire.",
-               "Pas de nourriture dans le camp aujourd'hui, hein? Peut-Ãªrte que je peux trouver quelque chose dans la forÃªt Ã  tuer pour demain."
+               "Une journée entière sans nourriture? Mon estomac va commencer à se manger.",
+               "Je viens d'une journée entière sans manger une seule chose que ce soit. Demain, mes 'amis' faites attention à vous.",
+               "Je n'ai peut-être pas mangé pendant une journée mais je suis toujours un dur à cuire.",
+               "Pas de nourriture dans le camp aujourd'hui, hein? Peut-êrte que je peux trouver quelque chose dans la forêt à tuer pour demain."
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "Le jeÃ»ne d'un jour m'offre simplement l'occasion d'observer les gÃ©missement des mon esprit de singe.", 
-               "Une journÃ©e sans nourriture est une excellent moyen d'aiguiser l'esprit.",
-               "Selon mes recherches, les gens ont besoin de consommer au moins 24 unitÃ©s d'Ã©nergie chaque jour pour maintenir un bon fonctionnement."
+               "Le jeûne d'un jour m'offre simplement l'occasion d'observer les gémissement des mon esprit de singe.", 
+               "Une journée sans nourriture est une excellent moyen d'aiguiser l'esprit.",
+               "Selon mes recherches, les gens ont besoin de consommer au moins 24 unités d'énergie chaque jour pour maintenir un bon fonctionnement."
                ]
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "C'est bon , je n'ai pas besoin de mangÃ© tout les jours.",
-               "Une jornÃ©e sans nourriture? Ã€ la maison, nous allions une semaine entiÃ¨re pour le festival de __teacher__", 
-               "Par les prÃ©ceptes de la grande Ã‰glise, nous devrions manger au moins une fois par jour."
+               "C'est bon , je n'ai pas besoin de mangé tout les jours.",
+               "Une jornée sans nourriture? À la maison, nous allions une semaine entière pour le festival de __teacher__", 
+               "Par les préceptes de la grande Église, nous devrions manger au moins une fois par jour."
                ]
             }
          }

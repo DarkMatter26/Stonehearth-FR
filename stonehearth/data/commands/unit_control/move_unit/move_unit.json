@@ -3,7 +3,7 @@
 
    "name": "move_unit",
    "tooltip": "Bouge",
-   "description": "Dire Ã  ce personnage de se dÃ©placer quelque part ailleurs",
+   "description": "Dire à ce personnage de se déplacer quelque part ailleurs",
    "icon": "file(move_unit.png)",
 
    "action": "call",

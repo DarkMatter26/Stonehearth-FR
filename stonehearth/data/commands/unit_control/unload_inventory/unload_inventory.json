@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "unload inventory",
-   "tooltip": "DÃ©charger les sacs",
-   "description": "Retourner Ã  la ville et dÃ©poser le contenu de vos sacs.",
+   "tooltip": "Décharger les sacs",
+   "description": "Retourner à la ville et déposer le contenu de vos sacs.",
    "icon": "file(unload_inventory.png)",
 
    "action": "call",

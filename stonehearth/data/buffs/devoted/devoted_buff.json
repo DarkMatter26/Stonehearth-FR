@@ -1,7 +1,7 @@
 {
    "type" : "buff",
-   "name" : "DÃ©vouÃ©",
-   "description" : "DÃ©vouÃ© corps et Ã‚me",
+   "name" : "Dévoué",
+   "description" : "Dévoué corps et Âme",
    "icon" : "file(devoted_buff.png)",
    "modifiers" : {
       "speed" : {

@@ -12,34 +12,34 @@
          "logs_by_personality" : {
             "beleaguered_leader" : {
                "logs" : [
-               "Tout le monde semble Ãªtre arrivÃ© ici OK! Enfin... presque tout le monde..."
+               "Tout le monde semble être arrivé ici OK! Enfin... presque tout le monde..."
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "Je suis tellement excitÃ© d'Ãªtre ici que je pourrais __action_verb__ avec joie!!!" 
+               "Je suis tellement excité d'être ici que je pourrais __action_verb__ avec joie!!!" 
                ]
             },
             "lovable_rogue" : {
                "logs" : [
-               "Bien, nous sommes ici, je suppose, Ã€ un millions de kilomÃ¨tres de la civilisation. Bien.",
-               "Maman avait raison. On va tous se faire mangÃ© par des ours."
+               "Bien, nous sommes ici, je suppose, À un millions de kilomètres de la civilisation. Bien.",
+               "Maman avait raison. On va tous se faire mangé par des ours."
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
-               "Ã€ l'Ã©poque, il me semblait que Ãªtre perdu au milieu de la nature Ã©tait mieux que d'Ãªtre en prison, mais maintenant je me demande si ...",
-               "Marcher milles kilomÃ¨tres pour Ãªtre loin des gens et... il y a toujours des gens. Beurk."
+               "À l'époque, il me semblait que être perdu au milieu de la nature était mieux que d'être en prison, mais maintenant je me demande si ...",
+               "Marcher milles kilomètres pour être loin des gens et... il y a toujours des gens. Beurk."
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "Trois jours se sont Ã©coulÃ©s depuis que j'ai eu une conversation dÃ©cente. Essaye de ne pas paniquer. Ã‰chouer. Essayer de rester en vie. RÃ©ussi. En partie."
+               "Trois jours se sont écoulés depuis que j'ai eu une conversation décente. Essaye de ne pas paniquer. Échouer. Essayer de rester en vie. Réussi. En partie."
                ]
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "Wow! Il y a de grand espaces. Bien, il est temps de construire des relations solides et une communautÃ©!"
+               "Wow! Il y a de grand espaces. Bien, il est temps de construire des relations solides et une communauté!"
                ]
             }
          }

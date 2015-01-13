@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "chop",
-   "tooltip": "RÃ©colte",
-   "description": "RÃ©colte de bois de construction, ou tout simplement pour le dÃ©gager du chemin.",
+   "tooltip": "Récolte",
+   "description": "Récolte de bois de construction, ou tout simplement pour le dégager du chemin.",
    "icon": "file(chop_tree.png)",
 
    "action": "call",

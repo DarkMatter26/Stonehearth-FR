@@ -2,7 +2,7 @@
    "type" : "command",
 
    "name": "plant_corn",
-   "tooltip": "Plant de MaÃ¯s!",
+   "tooltip": "Plant de Maïs!",
    "description" : "L'Or alimentaire.",
    "icon": "file(plant_corn.png)",
 

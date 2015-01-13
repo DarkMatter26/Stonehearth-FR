@@ -46,9 +46,9 @@
                   "Ouais!",
                   "Ouais?",
                   "De bonne choses a avoir sous la main.",
-                  "ArrÃªt de travail!",
+                  "Arrêt de travail!",
                   "On va ici!",
-                  "Je pense que je vais essayer de ne pas faire de gÃ¢chis.",
+                  "Je pense que je vais essayer de ne pas faire de gâchis.",
                   ""
                ]
             },
@@ -56,17 +56,17 @@
                "type" : "random_array", 
                "entries" : [
                   "Il est temps d'aller bosser!",
-                  "HÃ© ho!",
+                  "Hé ho!",
                   "Joie.",
-                  "Souvenez-vous: J'ai choisi d'Ãªtre ici."
+                  "Souvenez-vous: J'ai choisi d'être ici."
                ]
             },
             "h_optimist_reaction" : {
                "type" : "random_array", 
                "entries" : [
-                  "Qui n'aime pas Ã§a?",
+                  "Qui n'aime pas ça?",
                   "En avant!",
-                  "Regardez lÃ -bas!"
+                  "Regardez là-bas!"
                ]
             }
          }
@@ -85,7 +85,7 @@
             "generic_exclamations" : {
                "type" : "random_array", 
                "entries" : [
-                  "HolÃ .",
+                  "Holà.",
                   "Ok!",
                   "Ouaip.",
                   "Uh huh.",
@@ -95,10 +95,10 @@
             "b_leader_exclamations" : {
                "type" : "random_array", 
                "entries" : [
-                  "Ã‰coutez tout le monde!",
-                  "PrÃ©parez-vous tous!",
-                  "En prendre une par Ã©quipe...",
-                  "Je mÃ¨ne la charge:",
+                  "Écoutez tout le monde!",
+                  "Préparez-vous tous!",
+                  "En prendre une par équipe...",
+                  "Je mène la charge:",
                   ""
                ]
             },

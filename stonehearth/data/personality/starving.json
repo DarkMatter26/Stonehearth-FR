@@ -13,23 +13,23 @@
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "J'ai tellement faim que Ã§a fait mal.", 
-               "si je peux juste avoir un peu de nourriture, peut-Ãªtre que mon estomac se sentira mieux.",
+               "J'ai tellement faim que ça fait mal.", 
+               "si je peux juste avoir un peu de nourriture, peut-être que mon estomac se sentira mieux.",
                "Je sais pas combien de temps je tiendrais sans nourriture."
                ]
             },
             "beleaguered_leader" : {
                "logs" : [
                "Je ne sais pas combien de temps nous pouvons durer sans nourriture.", 
-               "Quelqu'un a trouvÃ© des animaux pour les manger de suite ?",
-               "Rester Ã  l'affut des buisson Ã  baies, ou de quelque choses pour se mettre sous la dent!", 
+               "Quelqu'un a trouvé des animaux pour les manger de suite ?",
+               "Rester à l'affut des buisson à baies, ou de quelque choses pour se mettre sous la dent!", 
                "Devoir... continuer... garder... aller....",
-               "Je DOIS arrÃªter de rÃªver de nourriture tous les soirs."
+               "Je DOIS arrêter de rêver de nourriture tous les soirs."
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "Oh, gÃ©nial! un autres jour sans nourriture... VoilÃ  exactement le petit coup de pouce qu'il me fallait pour commencer mon rÃ©gime!!",
+               "Oh, génial! un autres jour sans nourriture... Voilà exactement le petit coup de pouce qu'il me fallait pour commencer mon régime!!",
                "La faim accentue vraiment les couleurs du monde!", 
                "Je pense qu'il y a un trou dans mon estomac.", 
                "Est-ce que je suis invisible maintenant?"
@@ -37,38 +37,38 @@
             },
             "lovable_rogue" : {
                "logs" : [
-               "En prenant du recule, j'aurais vraiment dÃ» faire une rÃ©serve de ces baies.",
+               "En prenant du recule, j'aurais vraiment dû faire une réserve de ces baies.",
                "C'est vraiment dommage qu'on ne puisse pas manger de l'argent et de l'or.",
-               "Ce bois commence Ã  ressembler Ã  du chocolat...",
-               "Comme __teacher__ est mon tÃ©moin, je n'aurais plus jamais faim!"
+               "Ce bois commence à ressembler à du chocolat...",
+               "Comme __teacher__ est mon témoin, je n'aurais plus jamais faim!"
                ]
             },
             "psychopathic_misanthrope" : {
                "logs" : [
                "Est-ce qu'il y a quelqu'un ici que je peux manger??",
                "Je dois tuer quelque chose de petit et velu.",
-               "Je dÃ©teste manger la mousse.", 
+               "Je déteste manger la mousse.", 
                "Le cannibalisme. Il y a quoi pour le diner."
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "La faim est simplement un Ã©tat d'esprit.",
-               "ÃŠtre ou ne pas Ãªtre; telle est la question ...",
-               "Les besoins de l'estomac sont simplement une distraction des activitÃ©s de l'esprit.",
+               "La faim est simplement un état d'esprit.",
+               "Être ou ne pas être; telle est la question ...",
+               "Les besoins de l'estomac sont simplement une distraction des activités de l'esprit.",
                "Esprit... plus... question!",
                "Je refuse de laisser ma grande intelligence succomber de la famine de base!",
-               "Selon mes recherches, les gens ont besoin de consommer au moins vingt-quatre unitÃ©s d'Ã©nergies chaque jour pour maintenir un bon fonctionnement."
+               "Selon mes recherches, les gens ont besoin de consommer au moins vingt-quatre unités d'énergies chaque jour pour maintenir un bon fonctionnement."
                ]
             },
             "diligent_sweetheart" : {
                "logs" : [
-               "J'ai tellement faim ... Ã‰tape 1: Apprendre la menuiserie!",
+               "J'ai tellement faim ... Étape 1: Apprendre la menuiserie!",
                "C'est bon, je n'ai pas vraiment besoin de manger aujourd'hui.", 
-               "J'espÃ¨re que je pourrais faire cuire un gÃ¢teau au fromage.", 
+               "J'espère que je pourrais faire cuire un gâteau au fromage.", 
                "Si nous nous blottissions autour du feu pendant la nuit, ce serait presque aussi bon que de manger, vrai?", 
                "Je ne veux vraiment pas mourir ici.", 
-               "__teacher__, mÃªme si je mourrais, garde mes amis en vie, ok?"
+               "__teacher__, même si je mourrais, garde mes amis en vie, ok?"
                ]
             }
          }
