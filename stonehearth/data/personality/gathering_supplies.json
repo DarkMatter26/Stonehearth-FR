@@ -26,7 +26,7 @@
             "gather_statement" : {
                "type" : "random_array", 
                "entries" : [
-                  "Aujourd'hui on va rammaser des __gather_target__!",
+                  "Aujourd'hui on va ramasser des __gather_target__!",
                   "Des __gather_target__.",
                   "D'autres __gather_target__!",
                   "Il est temps d'obtenir des __gather_target__!"

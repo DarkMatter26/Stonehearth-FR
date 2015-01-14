@@ -44,7 +44,7 @@
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-                  "Aah! Ca fais vraiment mal!",
+                  "Aah! Ça fais vraiment mal!",
                   "Je suis en danger!",
                   "J'ai mal!",
                   "Ça fais mal!Je dois... continuer!",
@@ -107,9 +107,9 @@
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-                  "J'ai eu peur de ma gourde maintenant!!!", 
+                  "J'ai peur de ma gourde maintenant!!!", 
                   "Aauuugh!!!", 
-                  "Chose de cauchemard!!!",
+                  "Chose de cauchemars!!!",
                   "On doit fuiiiiir!!!!",
                   "::cri de terreur::"
                ]
@@ -118,8 +118,8 @@
                "logs" : [
                   "Retraite tactique!Retraite tactique!!!",
                   "Tout le monde se rend aux collines!", 
-                  "Lacher tout et courrez!!!", 
-                  "Ils sont beaucoup trop fort pour nous! Dispervez-vous tous!!", 
+                  "Lâcher tout et courrez!!!", 
+                  "Ils sont beaucoup trop fort pour nous! Dispersez-vous tous!!", 
                   "Décidez-vous à courir vers la sortie!!!"
                ]
             }, 
@@ -137,11 +137,11 @@
             "lovable_rogue" : {
                "logs" : [
                   "Prenez la marchandise et allons vers la colline!", 
-                  "S'il vous plait, je ne veux pas mourrir!", 
+                  "S'il vous plait, je ne veux pas mourir!", 
                   "Il y a tellement de chose que je dois faire!!!!", 
-                  "Je ne peux pas mourrir ici!!!", 
+                  "Je ne peux pas mourir ici!!!", 
                   "Je dois ... m'échapper!!!", 
-                  "Chaqun pour soi!!!"
+                  "Chacun pour soi!!!"
                ]
             },
             "psychopathic_misanthrope" : {
@@ -158,10 +158,10 @@
                   "En cas de doute, PANIQUE!!!",
                   "Garder son calme et  AIEEEEE!", 
                   "::gémissement silencieux::", 
-                  "Gardez vos distance démond des cauchemars!", 
-                  "La terreur est mauvaise pour la préssion sanguine!!!", 
-                  "Je fais un arret cardiaque!!!", 
-                  "Mon cerveau... paralisé...!"
+                  "Gardez vos distance démons des cauchemars!", 
+                  "La terreur est mauvaise pour la pression sanguine!!!", 
+                  "Je fais un arrêt cardiaque!!!", 
+                  "Mon cerveau... paralysé...!"
                   "À l'aide! À L'AIIIIDE!!!"
                ]
             }, 

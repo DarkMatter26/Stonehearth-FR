@@ -6,8 +6,8 @@
          "category" : "gear"   
       },
       "unit_info" : {
-         "name": "Thick Leather Vest",
-         "description": "Hardened leather provides study protection against light arms.",
+         "name": "Veste en cuir épais",
+         "description": "Cuir durci étudié pour protéger contre les armes légères.",
          "icon" : "file(leather_vest.png)"
       },
       "model_variants": {

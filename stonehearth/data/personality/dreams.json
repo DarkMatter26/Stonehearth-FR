@@ -20,13 +20,13 @@
             "beleaguered_leader" : {
                "logs" : [
                "Tout d'abord, je rêvais que __dream_parts__. Puis, __dream_parts__. __beleaguered_leader_dream_reaction__",
-               "Hier soir, je comptais __dream_counter__ pour m'endormir, et quand je me suis réveillé,J'ai réalisé que toute la nuit mes rêves c'était compter __dream_counter__. Cool. "
+               "Hier soir, je comptais __dream_counter__ pour m'endormir, et quand je me suis réveillé, j'ai réalisé que toute la nuit mes rêves c'était compter __dream_counter__. Cool. "
                ]
             },
             "hopeless_optimist" : {
                "logs" : [
-               "__dream_monsters__!!!! Toute la nuit j'ai révé que j'étais poursuivi par __dream_monsters__!!!!",
-               "J'adore les rêves ou je vole. Cette uit, je me suis envolé par __material_adjective__ nuages et à travers __material_adjective__ arbres. Mais il faut se méfier des oiseaux!" 
+               "__dream_monsters__!!!! Toute la nuit j'ai rêvé que j'étais poursuivi par __dream_monsters__!!!!",
+               "J'adore les rêves ou je vole. Cette nuit, je me suis envolé par __material_adjective__ nuages et à travers __material_adjective__ arbres. Mais il faut se méfier des oiseaux!" 
                ]
             },
             "lovable_rogue" : {
@@ -37,13 +37,13 @@
             },
             "psychopathic_misanthrope" : {
                "logs" : [
-               "Nous sommes allé dormir avec encore la faim au ventre et pendant environ dix heures consécutive j'ai révé de __awesome_food__!!! Raaargh!!! Faites gaffe j'ai toujours une faim de loup!!!!",
+               "Nous sommes allé dormir avec encore la faim au ventre et pendant environ dix heures consécutive j'ai rêve de __awesome_food__!!! Raaargh!!! Faites gaffe j'ai toujours une faim de loup!!!!",
                "Au paradis, j'espère recevoir un lac de __awesome_food__ Pour nager dedans. Nager pour toujours!!!!"
                ]
             },
             "insufferable_academic" : {
                "logs" : [
-               "Je me demande si quelqu'un a déjà eu le rêve où des vêtement traînen leurs corps par les pieds? Heureusement pour moi, Il me semble avoir toujours sur moi une fidèle pair de  __material_adjective__ culottes.",
+               "Je me demande si quelqu'un a déjà eu le rêve où des vêtements traînent leurs corps par les pieds? Heureusement pour moi, Il me semble avoir toujours sur moi une fidèle pair de  __material_adjective__ culottes.",
                "La nuit dernière, je rêvais que je me tenais devant une classe de __animals__ attentifs. Ils ont pris des notes sur la nature de la réalité. Ensuite, nous avons un débat agité.",
                "Selon les formules de mes rêves, le déterminisme est un mythe. Il est maintenant temps de prendre un petit déjeuner."
                ]
@@ -70,9 +70,9 @@
          "logs_by_personality" : {
             "generic" : {
                "logs" : [
-               "Je me sens tellment bien d'avoir mon propre lit.",
-               "Dormir dans un lit est tellemnt plus chaud que de dormir sur le sol!",
-               "Les lits sont la meilleur invention  depuis la régulation de la taille des troncs.", 
+               "Je me sens tellement bien d'avoir mon propre lit.",
+               "Dormir dans un lit c'est tellement plus chaud que de dormir sur le sol!",
+               "Les lits sont la meilleur invention depuis la régulation de la taille des troncs.", 
                "Je ne me lasserais jamais de  dormir dans ce lit.", 
                "Oui! Ce lit est le mien! M-I-E-N!",
                "Quand je suis dans mon lit, je me sens tellement bien et  protégé.",
@@ -97,12 +97,12 @@
                "logs" : [
                "Dormir sur le sol me fais super mal.",
                "Je pense qu'il y avait une pierre sous mon épaule toute la nuit.",
-               "Serpant! Que faire si je me réveillle couvert de serpents à sonnetes?!", 
+               "Serpent! Que faire si je me réveille couvert de serpents à sonnettes?!", 
                "J'espère pouvoir dormir dans un vrai lit.",
                "Toute sorte de lit serait mieux que de dormir parterre", 
-               "Penser que __teacher__ a dormi sur le sol pendant tout son pélerinage, j'espère ne pas avoir à le faire.",
+               "Penser que __teacher__ a dormi sur le sol pendant tout son pèlerinage, j'espère ne pas avoir à le faire.",
                "Je souhaite vraiment, vraiment avoir mon propre lit.", 
-               "J'étais trop fatigué pour trouver un lit mais maintenant je suis à payer pour ça.Ow.",
+               "J'étais trop fatigué pour trouver un lit mais maintenant je suis prêt à payer pour ça.",
                "Dormir sur le sol à nouveau. J'ai super mal au coup. Tout me semble incliné."
                ]
             }
@@ -128,7 +128,7 @@
                "type" : "random_array",
                "entries" : [
                   "loups",
-                  "goblins",
+                  "gobelins",
                   "dragons",
                   "trolls",
                   "hérissons",
@@ -164,7 +164,7 @@
             "action_verb" : {
                "type" : "random_array", 
                "entries" : [
-                  "dancer",
+                  "danser",
                   "chanter",
                   "tourner", 
                   "attaquer",
@@ -193,7 +193,7 @@
                   "côtes de boeuf",
                   "venaison",
                   "jambon au miel glacé",
-                  "rôtide raton laveur"
+                  "rôti de raton laveur"
                ]
             }
          }         
@@ -204,10 +204,10 @@
             "dream_parts" : {
                "type" : "random_array",
                "entries" : [
-                  "Des __monsters__ attaquent norte campement.",
+                  "Des __monsters__ attaquent notre campement.",
                   "Les __prosaic_plural_noun__ ont des bras et des jambes qui poussent et ils ont commencé à __action_verb__",
                   "__teacher__ m'a demandé de __action_verb__ devant un large public!",
-                  "J'avais trouvé un mirroir __material_adjective__ sous mon oreiller"
+                  "J'avais trouvé un miroir __material_adjective__ sous mon oreiller"
                ]
             },
             "beleaguered_leader_dream_reaction" : {

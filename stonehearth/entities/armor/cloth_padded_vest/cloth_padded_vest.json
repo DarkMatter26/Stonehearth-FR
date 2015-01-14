@@ -3,8 +3,8 @@
    "mixins" : "stonehearth:mixins:item_properties",
    "components" : {
       "unit_info" : {
-         "name": "Padded Vest",
-         "description": "Provides light protection in a fight.",
+         "name": "Veste matelassée",
+         "description": "Offre une protection légère dans un combat.",
          "icon" : "file(padded_vest.png)"         
       },
       "model_variants": {

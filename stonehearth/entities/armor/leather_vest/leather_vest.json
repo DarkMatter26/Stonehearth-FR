@@ -3,8 +3,8 @@
    "mixins" : "stonehearth:mixins:item_properties",
    "components" : {
       "unit_info" : {
-         "name": "Thick Leather Vest",
-         "description": "Hardened leather provides sturdy protection.",
+         "name": "Veste en cuir épais",
+         "description": "Cuir durci offre une protection robuste.",
          "icon" : "file(leather_vest.png)"         
       },
       "model_variants": {

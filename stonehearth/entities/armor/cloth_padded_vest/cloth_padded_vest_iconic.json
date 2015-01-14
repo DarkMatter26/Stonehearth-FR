@@ -6,8 +6,8 @@
          "category" : "gear"
       },
       "unit_info" : {
-         "name" :  "Padded Vest",
-         "description": "Provides light protection in a fight. Every little bit helps!",
+         "name" :  "Veste matelassée",
+         "description": "Offre une protection légère dans un combat. Chaque petit geste compte!",
          "icon" : "file(cloth_padded_vest.png)"         
       },
       "model_variants": {

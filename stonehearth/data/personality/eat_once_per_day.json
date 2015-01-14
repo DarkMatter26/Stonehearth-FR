@@ -15,8 +15,8 @@
                "logs" : [
                "__Teacher__, merci pour cette __recent_food__.",
                "Cher journal. Aujourd'hui je mange: __recent_food__. __eat_reactions__", 
-               "De la nourriture! La __recent_food__ a un goûtétonnament bon aujourd'hui", 
-               "On a jamais vraiment aprécier la nourriture comme ce __recent_food__ depuis que nous avons déménager ici.", 
+               "De la nourriture! La __recent_food__ a un goût étonnamment bon aujourd'hui", 
+               "On a jamais vraiment apprécier la nourriture comme ce __recent_food__ depuis que nous avons déménager ici.", 
                "Être nourris est beaucoup, beaucoup, beaucoup mieux que d'avoir faim!", 
                "Hé Garçon! Ton/ta __recent food__. C'est super bon pour mon ventre!"
                ]
@@ -38,7 +38,7 @@
                   "Joie.", 
                   "Oh punaise !", 
                   "Délicieux",
-                  "Toujours mieux que de mourrir de faim!"
+                  "Toujours mieux que de mourir de faim!"
                ]
             }
          }

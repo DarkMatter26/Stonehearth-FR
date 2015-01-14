@@ -15,8 +15,8 @@
          "tags" :  "armor light_armor"
       },
       "unit_info": {
-         "name": "Studded Leather Helmet", 
-         "description": "Protects your head"
+         "name": "Casque de cuir clouté", 
+         "description": "Protège votre tête"
       }, 
       "armor_info": {}
    }

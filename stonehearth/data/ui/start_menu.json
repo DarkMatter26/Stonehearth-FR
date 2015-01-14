@@ -135,8 +135,8 @@
             "hotkey" : "t"
          }, 
          "create_pasture" : {
-            "name" : "Animal Pasture",
-            "description" : "The shepherd will bring animals here to graze.",
+            "name" : "Pâturage animal",
+            "description" : "Le berger apportera des animaux ici pour qu'il broute.",
             "class" : "button",
             "icon" : "/stonehearth/ui/game/start_menu/images/zone_pasture.png",
             "sticky" : true

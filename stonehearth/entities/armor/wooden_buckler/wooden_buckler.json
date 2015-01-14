@@ -10,8 +10,8 @@
          }
       },
       "unit_info": {
-         "name": "Wooden Buckler",
-         "description": "Better than using an oak branch to defend your ego.",
+         "name": "Bouclier en bois",
+         "description": "Quoi de mieux qu'une branche de chêne pour défendre votre ego.",
          "icon" : "file(wooden_buckler.png)"
 
       },
