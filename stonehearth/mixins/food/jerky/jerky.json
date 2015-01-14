@@ -13,7 +13,7 @@
          "maxStacks" : 3
       },
       "stonehearth:material" : {
-         "tags" : "Morceaux de viande de animal_part"
+         "tags" : "food meat animal_part"
       },
       "model_variants": {
          "default": {
