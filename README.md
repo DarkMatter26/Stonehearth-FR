@@ -18,7 +18,20 @@ Comment installer la traduction Française :
 * Lancer le jeu, vous devriez le voir en français !
 
 ----
+Pour info propriété a traduire
+convertir les fichier en ANSI pour les accents
+ne pas traduire quand il y a des mot du type __*__ ou *_*
 
+"name"
+"description"
+"long_description"
+"requirements"
+"tag" 			? j'ai un doute là
+"tooltip"
+"text"
+"logs"
+
+----
 Pour nous aider à traduire laissez un commentaire, ou simplement utiliser github
 
 Beaucoup de travail est encore nécessaire pour une traduction complète.

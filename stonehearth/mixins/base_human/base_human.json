@@ -83,8 +83,8 @@
          ]
       },
       "unit_info" : {
-         "name": "Civilian",
-         "description": "Citizen of your town"
+         "name": "Civil",
+         "description": "Citoyen de votre ville"
       },
       "sensor_list": {
          "sensors": {
@@ -102,14 +102,14 @@
          ]
       },
       "stonehearth:job" : {
-         "starting_level_title" : "Apprentice __job_name__ ",
-         "default_level_title" : "Level __level_number__ __job_name__", 
-         "default_level_announcement" : "__name__ has achieved __job_name__ Level __level_number__!", 
+         "starting_level_title" : "Apprenti __job_name__ ",
+         "default_level_title" : "Niveau __level_number__ __job_name__", 
+         "default_level_announcement" : "__name__ a atteint __job_name__ Niveau __level_number__!", 
          "xp_equation_for_next_level" : "next_level ^ 2 * 100", 
          "levels_between_attribute_increase" : 10, 
          "level_data" : {
-            "general_description_desc" : "Max HP increased!",
-            "attribute_up_desc" : "All attributes increased!" 
+            "general_description_desc" : "Les PV ont augmentés!",
+            "attribute_up_desc" : "Tous les attributs ont augmenté!" 
          }
       },
       "stonehearth:attributes" : {
