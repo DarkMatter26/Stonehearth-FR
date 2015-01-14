@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "harvest_planted",
-   "tooltip" : "Harvest",
-   "description" : "Reap whatever's available.",
+   "tooltip" : "Récolter",
+   "description" : "Récolter tout ce qui est disponible.",
 
    "default_enabled": true,  
    "icon": "file(harvest_planted.png)",

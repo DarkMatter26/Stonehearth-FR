@@ -3,8 +3,8 @@
    "components": {
       "unit_info": {
          "icon": "...",
-         "name": "Building", 
-         "description": "A building.  woot!!"
+         "name": "Bâtiment", 
+         "description": "Un bâtiment.  Hey!!"
       },
       "stonehearth:building" : {
       }

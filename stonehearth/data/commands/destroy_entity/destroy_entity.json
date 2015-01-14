@@ -2,8 +2,8 @@
    "type" : "command",
 
    "name": "destroy_entity",
-   "tooltip": "Destroy",
-   "description" : "Irrevocably remove this item from the world!",
+   "tooltip": "Détruire",
+   "description" : "Supprimer définitivement cet objet du monde!",
    "icon": "file(destroy_entity.png)",
 
    "action": "call",

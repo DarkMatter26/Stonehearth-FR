@@ -3,8 +3,8 @@
    "components": {
       "unit_info": {
          "icon": "...", 
-         "name": "Stone Floor", 
-         "description": "Keeps feet clean"
+         "name": "Sol de Pierre", 
+         "description": "Maintient les pieds propre"
       },
       "stonehearth:construction_data" : {
          "type" : "floor",

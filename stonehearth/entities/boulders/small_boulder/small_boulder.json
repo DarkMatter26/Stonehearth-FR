@@ -10,8 +10,8 @@
          }
       }, 
       "unit_info": {
-         "name": "Small Boulder", 
-         "description": "Harvestable for stone"
+         "name": "Petit Rocher", 
+         "description": "Récolter de la pierre"
       }, 
       "stonehearth:resource_node": {
          "durability": 1

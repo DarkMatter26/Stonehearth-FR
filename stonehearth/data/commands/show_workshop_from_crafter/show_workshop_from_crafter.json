@@ -2,9 +2,9 @@
    "type" : "command",
 
    "name": "show_workshop_from_crafter",
-   "tooltip": "Show Workshop",
-   "description": "Your crafter uses the workshop to construct useful items for your settlement.",
-   "disabled_description": "Your crafter uses the workshop to construct useful items for your settlement. Before you can craft you need to assign a crafter to this workshop.",
+   "tooltip": "Affiché l'Atelier",
+   "description": "Votre artisan utilise l'atelier pour construire des objets utiles pour votre ville.",
+   "disabled_description": "Votre artisan utilise l'atelier pour construire des objets utiles pour votre ville. Avant de pouvoir fabriquer, vous devez assigner un artisan à cet atelier.",
    "default_enabled": true,
    "icon": "file(../show_workshop/show_workshop.png)",
 

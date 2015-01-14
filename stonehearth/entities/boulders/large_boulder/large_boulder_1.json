@@ -10,8 +10,8 @@
          }
       }, 
       "unit_info": {
-         "name": "Huge Boulder",
-         "description": "Harvestable for stone"
+         "name": "Énorme Rocher",
+         "description": "Récolter de la pierre"
       }, 
       "stonehearth:resource_node": {
          "durability": 12

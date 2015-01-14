@@ -10,8 +10,8 @@
          }
       }, 
       "unit_info": {
-         "name": "Medium Boulder", 
-         "description": "Harvestable for stone"
+         "name": "Rocher", 
+         "description": "Récolter de la pierre"
       }, 
       "stonehearth:resource_node": {
          "durability": 6

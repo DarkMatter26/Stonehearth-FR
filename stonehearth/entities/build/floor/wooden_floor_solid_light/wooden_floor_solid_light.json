@@ -3,8 +3,8 @@
    "components": {
       "unit_info": {
          "icon": "...", 
-         "name": "Wooden Floor", 
-         "description": "Keeps feet clean"
+         "name": "Sol de Bois", 
+         "description": "Maintient les pieds propre"
       },
       "stonehearth:construction_data" : {
          "type" : "floor",

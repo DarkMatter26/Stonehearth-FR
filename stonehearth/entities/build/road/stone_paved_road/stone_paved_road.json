@@ -3,8 +3,8 @@
    "components": {
       "unit_info": {
          "icon": "...", 
-         "name": "Stone Paved Road", 
-         "description": "Keeps feet clean"
+         "name": "Route pavée de Pierres", 
+         "description": "Maintient les pieds propre"
       },
       "stonehearth:construction_data" : {
          "type" : "floor",
